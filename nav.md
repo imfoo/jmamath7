@@ -1,4 +1,4 @@
-| [Main Page] | [Homework] | [Projects] | [Warm-ups] | [Notes] | [Other Resources] |
+[Main Page] | [Homework] | [Projects] | [Warm-ups] | [Notes] | [Other Resources]
 
 
 [Main Page]: /index.md
