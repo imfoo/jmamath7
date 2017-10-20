@@ -2,6 +2,7 @@
 
  * [Unit 1 review slides](/doc/unit1review.rem)
  * [Adding and subtracting rational numbers practice](/doc/unit1/adding_subtracting_rational_numbers_relay_race.pdf) [Solutions](/doc/unit1/solutions.pdf)
+ * [Adding, Subtracting, Multiplying, and Dividing Integers](/doc/unit1/quiz3.pdf)
 
 # Notes
 
