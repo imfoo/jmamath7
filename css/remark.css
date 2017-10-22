@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+  body {
+    font-family: "Computer Modern Sans", sans-serif;
+  }
+
+
+
+.remark-slide-content { font-size: 24pt; padding: 35pt;} 
+.medium { font-size: 20pt; padding: 0pt; margin: 5pt;} 
+.small { font-size: 18pt; padding: 0pt; margin: 5pt;} 
+.center { text-align:center;}
+/*.large { font-size: 24pt; padding: 35pt; margin: 2em;} */
+.clear { clear: both;}
+h1, h2, h3, h4 {
+/*  font-family: 'Yanone Kaffeesatz';*/
+/*  font-weight: normal;*/
+  padding: 5pt;
+  margin: 5pt;
+}
+ol {
+    margin: 5pt;
+}
+p {
+    margin: 10pt;
+}
+/*.column {height: 100%}*/
+.column:first-of-type {float:left;}
+.column:last-of-type {float:right;}
+
+     /* Two-column layout */
+      .left-column {
+        color: #000;
+        width: 35%;
+        float: left;
+        padding-top: 0em;
+      }
+      .right-column {
+        width: 65%;
+        float: right;
+        padding-top: 0em;
+      }
+.split-40 .column:first-of-type {width: 40%;} 
+.split-40 .column:last-of-type {width: 50%;}
+.remark-slide-content { background-size: contain; } 
+.remark-slide-content table{width:100%;margin:0.3em 0;border-collapse:separate;border-spacing:3px}
+.remark-slide-content table th{padding:.5em;background-color:#7f8c8d;color:#fff;font-weight:400}
+.remark-slide-content table th:first-child{border-radius:10px 0 0}
+.remark-slide-content table th:last-child{border-radius:0 10px 0 0}
+.remark-slide-content table td{padding:.5em;background-color:#ced4d8}
+.remark-slide-content table tr:last-child td:first-child{border-radius:0 0 0 10px}
+.remark-slide-content table tr:last-child td:last-child{border-radius:0 0 10px}
+.remark-slide-content .inverted table td,
+.remark-slide-content .inverted table th{background-color:transparent;border:2px solid #ced4d8}
+.remark-slide-content .inverted table{border-spacing:0}
+.remark-slide-content .inverted table th{color:#000;font-weight:700}
+.remark-slide-content.title{padding:0 2em;text-align:center}
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+

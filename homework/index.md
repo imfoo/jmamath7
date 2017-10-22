@@ -1,3 +1,5 @@
+Title: JMA Math 7 - Homework
+
 # Homework
 
  * [Homework for October 16-October 20](/homework/homework_oct16-oct20.pdf)

@@ -6,159 +6,296 @@ background-image: url(../images/bg.png)
 
 ---
 
-class: center, middle
+class: middle
 
 # Unit 1 Review
-## Objective: I can add, subtract, multiply, and divide integers using number lines and the rules for these operations.
-## Objective: I can add, subtract, multiply, and divide rational numbers
-## Objective: I can apply the four operations to solve real-world problems involving rational numbers
+**Objective:** I can add, subtract, multiply, and divide integers using number lines and the rules for these operations.
+
+**Objective:** I can add, subtract, multiply, and divide rational numbers.
+
+**Objective:** I can apply the four operations to solve real-world problems involving rational numbers.
 
 ---
 
 ## Adding integers
-## Find 
-## $-2+3$
+1. Find $-2+3$.
 
-## The solution can be found here: [Adding positive and negative numbers](https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro/v/adding-and-subtracting-negative-number-examples)
+The solution can be found here: [Adding positive and negative numbers](https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro/v/adding-and-subtracting-negative-number-examples)
 ---
 
-## Adding integers using number lines **(Activity)**
-## Find
-## $-2+3$
-## Use a number line tool to solve this addition problem.
+### Adding integers **(Number line activity)**
 
-**Directions:** 
+Use a number line tool to represent the addition problem $-2+3$.
+
+.medium[
+#### Directions:
  1. Open the [Adding Integers Using A Number Line Tool](http://www.saddleback.edu/faculty/lperez/algebra2go/tools/addnumberline/index.html)
  2. To represent $-2$, click the left arrow twice.
- 3. To represent adding $3$ (the second number in the sum) first click the button that says "Second Number."
+ 3. To represent adding $3$ (the second number in the sum) first click the button that says **Second Number.**
  4. Click the right arrow $3$ times to represent adding $3$.
  5. Read off the number at the end of the blue arrow.
  5. Click reset to start over.
+]
 
 ---
 
-## Adding integers using integer tiles **(Activity)**
-## Find $5+(-3)$ and $-5+(-3)$.
+### Adding integers **(Integer tiles activity)**
+1. Find $-2+3$.
+2. Find $5+(-3)$.
+3. Find $-5+(-3)$.
 
-### Use the [number line tool with integer tiles](http://www.saddleback.edu/faculty/lperez/algebra2go/tools/integertiles/index.html) to represent these problems.
+Use the [number line tool with integer tiles](http://www.saddleback.edu/faculty/lperez/algebra2go/tools/integertiles/index.html) to represent these problems.
 
-### **Question:** How do the integer tiles help us make sense of adding positive and negative numbers?
-
----
-
-# How to subtract integers
-
-## *Every subtraction problem can be rewritten as an addition problem.*
-
-### Why? Watch the [Khan Academy explanation](https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro/v/why-subtracting-a-negative-equivalent-to-adding-a-positive)
-
-### Also, try the practice problems [here](https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro/e/understand-subtraction-as-adding-the-opposite)!
+**Question:** How do the integer tiles help us make sense of adding positive and negative numbers?
 
 ---
 
-# Subtracting integers **(Activity)**
+# Subtracting integers
 
-## See the connection between subtraction and addition using a number line:
+**Key idea:** *Every subtraction problem can be rewritten as an addition problem.*
 
-**Directions:** 
+Why? Watch the [Khan Academy explanation](https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro/v/why-subtracting-a-negative-equivalent-to-adding-a-positive)
+
+Also, try the practice problems [here](https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro/e/understand-subtraction-as-adding-the-opposite)!
+
+---
+
+### Subtracting integers **(Number line activity)**
+
+See the connection between subtraction and addition using a number line:
+
+.medium[
+#### Directions:
  1. Open the [number line tool](http://www.saddleback.edu/faculty/lperez/algebra2go/tools/addsubnumline/index.html)
  2. Click the arrows to set the first number.
  3. Click the button that says "Second Number."
  4. Click the arrows to set the second number.
  5. Compare the second number in the addition and subtraction problems.
-
-### **Essential Question:** How is the second number in each addition problem related to the second number in the subtraction problem?
-
----
-
-# Find
-### $5-3,$
-### $-5-3$,
-### and
-### $-5-(-3)$.
-
-## Use the [number line tool with subtraction](http://www.saddleback.edu/faculty/lperez/algebra2go/tools/addsubnumline/index.html) to represent the equivalent addition and subtraction problems 
+]
 
 ---
 
-# Adding and subtracting signed fractions
+### Subtracting integers 
 
-[Here](http://www.jmamath7.org/notes/adding_subtracting_rational_numbers.pdf) are the notes from class about adding and subtracting signed fractions. Remember to **convert mixed numbers to improper fractions** and **find common denominators** before you add or subtract the numerators!
+Find each difference by rewritting it as an addition problem:
+
+1. $5-3.$
+2. $-5-3.$
+3. $-5-(-3).$
+
+Use the [number line tool with subtraction](http://www.saddleback.edu/faculty/lperez/algebra2go/tools/addsubnumline/index.html) to represent the equivalent addition and subtraction problems 
+
+**Essential Question:** How is the second number in each addition problem related to the second number in the subtraction problem?
+
+---
+
+### Adding and subtracting signed fractions
+
+[Here](http://www.jmamath7.org/notes/adding_subtracting_rational_numbers.pdf) are the notes from class about adding and subtracting signed fractions.
 
 Find $3 \frac{1}{8} + \frac{3}{4} + (-2 \frac{1}{6})$.
 
 The solution can be found [here](https://www.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-fractions/v/adding-fractions-with-different-signs)
 
+**Remember:** **Convert mixed numbers to improper fractions** and **find common denominators** before you add or subtract the numerators!
 ---
 
-# Adding and subtracting signed fractions
+### Adding and subtracting signed fractions
 
 Try the practice problems [here](https://www.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-fractions/e/adding_and_subtracting_fractions).
 
 ---
 
 # Multiplying signed fractions
-### Find $-7 \cdot \frac{3}{49}$.
-### Find $-\frac{5}{9} \cdot -\frac{3}{15}$.
-### Watch the [Khan Academy explanation](https://www.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-rational-nos-multiply-divide/v/multiplying-negative-and-positive-fractions).
+1. Find $-7 \cdot \frac{3}{49}$.
+2. Find $-\frac{5}{9} \cdot -\frac{3}{15}$.
 
-### Try the practice problems [here](https://www.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-rational-nos-multiply-divide/e/multiplying_fractions).
+Watch the [Khan Academy explanation](https://www.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-rational-nos-multiply-divide/v/multiplying-negative-and-positive-fractions).
+
+Try the practice problems [here](https://www.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-rational-nos-multiply-divide/e/multiplying_fractions).
 
 ---
 
 # Dividing signed fractions
 
-### Find $-\frac{5}{6} \div \frac{3}{4}$.
-### Find $-4 \div -\frac{1}{1}$.
-### Watch the [Khan Academy explanation](https://www.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-rational-nos-multiply-divide/v/examples-of-dividing-negative-fractions).
+1. Find $-\frac{5}{6} \div \frac{3}{4}$.
+2. Find $-4 \div -\frac{1}{1}$.
 
-### Try the practice problems [here](https://www.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-rational-nos-multiply-divide/e/dividing_fractions_2).
+Watch the [Khan Academy explanation](https://www.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-rational-nos-multiply-divide/v/examples-of-dividing-negative-fractions).
+
+Try the practice problems [here](https://www.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-rational-nos-multiply-divide/e/dividing_fractions_2).
+
+---
+# Combining multiple operations
+
+1. Find $-2 \div \frac{3}{4} - 1$. 
+2. Find $1+\frac{5}{3} \div (-\frac{5}{4})$.
+
+**Remember the order of operations!**
 
 ---
 
-## Answers to addition problems
+### Adding integers answers
 
-### $-2+3 = 1.$
+1. $-2+3~$
+--
+$ = 1.$
+--
 
-### $5+(-3) = 2.$ 
-### $-5+(-3) = -8.$
+2. $5+(-3)~$
+--
+$ = 2.$ 
+--
 
+3. $-5+(-3)~$
+--
+$ = -8.$
+
+--
+.medium[
 | **Question:** How do the integer tiles help us make sense of adding positive and negative numbers? | |
 |:--|--|
-| **Answer:** If there are pairs of positive and negative tiles, each pair contributes $0$ to the sum, so we can count the unpaired tiles to find the answer. | <img src="../images/5plus-3eq2.png" height="80px"/> |
+| **Answer:** If there are pairs of positive and negative tiles, each pair contributes $0$ to the sum, so we can count the unpaired tiles to find the answer (see image). | <img src="../images/5plus-3eq2.png" height="80px"/> |
+]
 
 
 ---
 
-## Answers to subtraction problems
+### Subtracting integers answers
 
-#### $5-3 = 2.$
+1. $5-3~$
+--
+$ = 2$
 
-#### $-5-3$ can be rewritten as $-5+(-3)$, which equals $-8.$
+--
+2. $-5-3~$
+--
+can be rewritten as $-5+(-3)$
+--
+, which equals 
+--
+$-8$.
 
-#### $-5-(-3)$ can be rewritten as $-5+3$, which equals $-2.$
+--
+3. $-5-(-3)~$
+--
+can be rewritten as $-5+3$
+--
+, which equals 
+--
+$-2$.
 
-| **Essential Question:** How is the second number in each addition problem related to the second number in the subtraction problem? | |
+
+--
+.small[
+| **Essential Question:** How is the second number in each of the addition problem related to the second number in the subtraction problem? | |
 |:--|:--|
-| **Answer:** The second number in each addition problem is **the opposite** of the second number in the corresponding subtraction problem. | <img src="../images/5minus3eq2.png" height="160px"/> |
+| **Answer:** The second number in each addition problem is **the opposite** of the second number in the corresponding subtraction problem. | <img src="../images/5minus3eq2.png" height="120px"/> |
+]
 
 ---
 
-## Answers to addition and subtraction of signed fractions
+### Adding and subtracting signed fractions answers
 
-### $3 \frac{1}{8} + \frac{3}{4} + (-2 \frac{1}{6}) = \frac{41}{24}.$
-
----
-
-### Answers to multiplication problems
-
-### $-7 \cdot \frac{3}{49} = -\frac{3}{7}$.
-### $-\frac{5}{9} \cdot -\frac{3}{15} = \frac{1}{9}$.
+$3 \frac{1}{8} + \frac{3}{4} + (-2 \frac{1}{6})~$
+--
+$ = \frac{41}{24}$.
 
 ---
 
-### Answers to division problems
+### Multiplying signed fractions answers 
 
-### $-\frac{5}{6} \div \frac{3}{4} = -\frac{10}{9}$.
-### $-4 \div -\frac{1}{2} = 8$.
+1. $-7 \cdot \frac{3}{49}~$
+--
+$ = -\frac{3}{7}$.
 
+--
+2. $-\frac{5}{9} \cdot -\frac{3}{15}~$
+--
+$ = \frac{1}{9}$.
+
+---
+
+### Dividing signed fractions answers
+
+1. $-\frac{5}{6} \div \frac{3}{4}~$
+--
+$ = -\frac{10}{9}$.
+
+--
+2. $-4 \div -\frac{1}{2}~$
+--
+$ = 8$.
+
+---
+### Combining multiple operations answers
+
+1. $-2 \div \frac{3}{4} - 1~$
+
+
+--
+$\quad =-2 \cdot \frac{4}{3} - 1~$
+--
+.small[(Change division to multiplication by the reciprocal)]
+
+
+--
+$\quad =-\frac{2}{1} \cdot \frac{4}{3} - 1~$
+
+
+--
+$\quad =-\frac{8}{3} - 1~$
+
+
+--
+$\quad =-\frac{8}{3} - \frac{3}{3}.~ $
+--
+
+
+Subtracting the numerators, we have $-8-3~$
+--
+$=-11$.
+--
+
+
+So the answer is $-\frac{11}{3}$.
+
+---
+### Combining multiple operations answers
+
+2\. $1-\frac{5}{3} \div (-\frac{5}{4})$
+
+
+--
+$\quad =1 - \frac{5}{3} \cdot (-\frac{4}{5})~$
+--
+.small[(Change division to multiplication by the reciprocal)]
+
+
+--
+$\quad =1 - (-\frac{20}{15})~$
+
+
+--
+$\quad =1 - (-\frac{4}{3})~$
+
+
+--
+$\quad =\frac{3}{3} - (-\frac{4}{3})~$
+
+
+--
+To subtract the numerators, we rewrite $3-(-4)$ as 
+--
+$3+4$, 
+--
+which equals 
+--
+$7$.
+
+
+--
+So the answer is $\frac{7}{3}$.
+---
+
+### Next: [Solving real-world problems involving rational numbers](/slides/9.rem)
