@@ -1,4 +1,4 @@
-[Main Page] | [Homework] | [Projects] | [Warm-ups] | [Classwork] | [Google Classroom] | [Other Resources]
+[Main Page] | [Homework] | [Projects] | [Warm-ups] | [Classwork] | [Google Classroom] | [Other Resources] | [Contact]
 
 
 [Main Page]: /index.md
@@ -8,3 +8,4 @@
 [Classwork]: /notes/index.md
 [Google Classroom]: http://classroom.google.com
 [Other Resources]: /links.md
+[Contact]: /contact.md
