@@ -1,0 +1,375 @@
+Title: Problem solving with rational numbers
+layout: true
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+background-image: url(../images/bg.png)
+
+---
+
+### Problem solving with rational numbers
+
+<p>
+.left-column[
+#### Materials
+ * Math notebook
+ * Pencils
+ * Agenda
+]
+.right-column[
+]
+</p>
+<p>
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="initializeClock()">
+    Warm-up timer: <span class="minutes" type="text">5</span> m <span class="seconds">00</span> s
+</div>
+</p>
+
+---
+
+.medium[
+.left-column[
+### Warm-up]
+.right-column[
+<div class="timer" style="text-align: center; background-color: #cccccc; text-color: #ffffff" onclick="initializeClock()">
+    Warm-up timer: <span class="minutes" type="text">5</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+1. Dave is painting a wall in his living room a bright red color. So far, he has painted $\frac{1}{5}$ of the wall and has used $\frac{1}{2}$ gallon of paint. How many gallons of paint does he need to cover the entire wall?
+
+2. Jane’s oatmeal recipe requires the mixing of $3 \frac{1}{4}$ cups of oats with $1 \frac{1}{4}$ cups of water. How many cups of oats are needed per cup of water?
+
+3. An oil company started to drill on land that was 340 feet above sea level. If they drilled down 525 feet every hour, what location was the bottom of the hole after 3 hours?
+]
+]
+
+---
+
+### Explain which operation you used and why.
+
+--
+<p>
+For problem 1, I used $\underline{\hspace{5cm}}$, because $\underline{\hspace{20cm}}$ $\underline{\hspace{20cm}}$ $\underline{\hspace{20cm}}$.
+</p>
+
+--
+<p>
+For problem 1, I used division and then multiplication, because we first want to know how many times $\frac{1}{5}$ goes into one. This tells us how many half gallons Dave needs to use. Once we find the number of half gallons, we multiply this by $\frac{1}{2}$ to find the number of gallons.
+</p>
+---
+
+**Objective:** I can apply the four operations to solve real world problems involving rational numbers.
+---
+
+At my birthday party, the girls ate $3$ pizzas and the boys ate $5$ pizzas.  How much more pizza did the boys eat than the girls?
+
+--
+<p>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="150"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="150"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="150"/>
+</p>
+
+--
+<p>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="150"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="150"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="150"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="150"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="150"/>
+</p>
+
+--
+<center>
+$3 +  \Large\square = 5 \hspace{3cm} 5 - 3 = \Large\square$.
+</center>
+
+
+---
+
+### Explain which operation you used and why.
+
+--
+I used subtraction, because we want to know the difference between the two amounts.
+
+---
+
+At my birthday party, the girls ate $3 \frac{1}{2}$ pizzas and the boys ate $5 \frac{1}{4}$ pizzas.  How much more pizza did the boys eat than the girls?
+
+--
+<p>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="130"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="130"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="130"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40590/pie_01-08i_40590_sm.gif" height="130"/>
+</p>
+
+--
+<p>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="130"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="130"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="130"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="130"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="130"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40598/pie_01-08q_40598_sm.gif" height="130"/>
+</p>
+
+--
+<center>
+$3\frac{1}{2} + \Large\square = 5\frac{1}{4} \hspace{3cm} 5 \frac{1}{4} - 3 \frac{1}{2} = \Large\square$.
+</center>
+
+---
+
+### Explain which operation you used and why.
+
+--
+I used subtraction, because we want to know the difference between the two amounts.
+
+---
+
+A cooler containing 15 gallons of punch is being poured into 3-gallon containers.  How many containers will it take to hold all the punch?
+
+--
+<p>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="/images/whole.jpg" height="80"/>
+<br/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="/images/whole.jpg" height="80"/>
+<br/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40520/pie_01-01_40520_sm.gif" height="100"/>
+<img style="vertical-align:middle" src="/images/whole.jpg" height="80"/>
+</p>
+
+--
+**Question:** How many $3$'s fit into $15$?
+
+--
+<center>
+$\Large\square \cdot 3 = 15 \hspace{3cm} 15 \div 3 = \Large\square$.
+</center>
+---
+
+### Explain which operation you used and why.
+
+--
+I used division, because we want to know how many times the number of gallons in each container fits into the number of gallons in the cooler.
+
+---
+
+A pitcher containing 3 ¾ gallons of punch is being poured into 3/5 gallon containers.  How many containers will it take to hold all the punch?
+
+--
+<center>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40537/pie_01-04a_40537_sm.gif" height="150"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40537/pie_01-04a_40537_sm.gif" height="150"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40537/pie_01-04a_40537_sm.gif" height="150"/>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40539/pie_01-04c_40539_sm.gif" height="150"/>
+<!--<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74330/74330_pie_3-4_sm.gif" height="150"/>-->
+
+--
+$3 \frac{3}{4} = \frac{15}{4}$
+
+--
+<p>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74331/74331_pie_3-5_sm.gif" height="120"/>
+</p>
+</center>
+
+
+--
+**Question:** How many $\frac{3}{5}$'s fit into $3 \frac{3}{4}$?
+
+--
+<center>
+$\Large\square \cdot \frac{3}{5} = 3 \frac{3}{4} \hspace{3cm} 3 \frac{3}{4} \div \frac{3}{5} = \Large\square$.
+</center>
+---
+
+### Explain which operation you used and why.
+
+--
+I used division, because we want to know how many times the number of gallons in each container fits into the number of gallons in the pitcher.
+
+---
+
+[Division by fractions review](https://www.youtube.com/watch?v=zp2jg_wnChw)
+
+---
+
+A recipe calls for 8 cups of brown sugar.  If I am making ¾ of the recipe, how much brown sugar should I use?
+
+--
+<center>
+
+<!--
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74330/74330_pie_3-4_sm.gif" height="150"/>
+of <img style="vertical-align:middle" src="http://etc.usf.edu/clipart/40500/40582/pie_01-08a_40582_sm.gif" height="180"/>
+= <img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74358/74358_pie_6-8_sm.gif" height="150"/>
+<p>$\frac{3}{4} \text{of } 8 = 6$.</p>
+-->
+
+<p>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74325/74325_pie_2-8_sm.gif" height="150"/>
+$\frac{1}{4} \text{of } 8 = 2$
+
+
+--
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74358/74358_pie_6-8_sm.gif" height="150"/>
+$\frac{3}{4} \text{of } 8 = 6$
+</p>
+<img style="vertical-align:middle" src="" height="150"/>
+
+
+$\frac{3}{4} \text{of } 8=$ 
+
+--
+$\frac{3}{4} \cdot 8$
+
+--
+$= 8 \div 4 \cdot 3$
+
+--
+$= 2 \cdot 3$
+
+--
+$= 6$.
+
+---
+
+### Explain which operation you used and why.
+
+--
+I used multiplication, because we want to find a fraction of a number. We can multiply a number by a fraction by first dividing the number by the denominator and then multiplying the result by the numerator.
+
+---
+[Multiplication of fractions review](https://www.youtube.com/watch?v=m-lwRcHFxGI)
+
+---
+
+A recipe calls for 1 ¾ cups of brown sugar.  If I am only making ¾ of the recipe, how much brown sugar should I use?
+
+
+--
+$\frac{3}{4} \text{of } 1 \frac{3}{4}$
+
+
+--
+$\quad = \frac{3}{4} \cdot 1 \frac{3}{4}$
+
+
+--
+$\quad = \frac{3}{4} \cdot \frac{7}{4}$
+
+
+--
+$\quad = \frac{21}{16}$.
+
+---
+
+
+A bread recipe calls for 2 cups of wheat flour and 3 cups of white flour.  How much flour does the recipe call for altogether?
+
+
+--
+$2+3$
+
+--
+$=5$
+
+--
+cups
+
+---
+
+A bread recipe calls for 2  cups of wheat flour and 3 ¼ cups of white flour.  How much flour does the recipe call for altogether?
+
+
+--
+$2 + 3 \frac{1}{4} = 5 \frac{1}{4}$
+
+--
+cups
+---
+
+1\.  Claire earned $60 babysitting on Friday night.  She spent ¼ of it at the movies, 1/3 going out to dinner, and she saved the rest.  How much money did she save?
+
+<center>
+<p>
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/46700/46779/46779_fractioncirc_sm.gif" height="115"/> $+$
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74310/74310_pie_1-4_sm.gif" height="115"/> $=$
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74348/74348_pie_4-12_sm.gif" height="115"/> $+$ 
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74339/74339_pie_3-12_sm.gif" height="115"/> $=$
+<img style="vertical-align:middle" src="http://etc.usf.edu/clipart/74300/74369/74369_pie_7-12_sm.gif" height="115"/> 
+</p>
+
+--
+<p>
+$$\hspace{1.75pt}\frac{1}{3} + \frac{1}{4} \hspace{2.5pt} =\hspace{2.25pt} \frac{4}{12} + \frac{3}{12} \hspace{2.25pt} =\hspace{1.25pt} \frac{7}{12}$$
+</p>
+
+--
+<p>
+She spent $\frac{7}{12}$ of her money,
+
+--
+so she saved $\frac{5}{12}$ of it.
+</p>
+
+
+<p>
+--
+$\frac{5}{12} \text{of } 60$
+
+--
+$= \frac{5}{12} \cdot 60$
+
+--
+$= 60 \div 12 \cdot 5$
+
+--
+$= 5 \cdot 5$
+
+--
+$= 25$.
+</p>
+
+
+--
+
+<p>
+She saved $25.
+</p>
+
+</center>
+
+
+---
+2\.  I have  cups of cake batter to split amongst 18 cupcakes.  How many cups of batter will I use for each cupcake?
+---
+3\.  Airplane tickets to Hawaii cost $500.  If my mom pays for ¾ of my ticket, how much will I have to pay?
+---
+4\.  A bookshelf is 72 inches wide.  If I plan to place books on the shelf that average ¾ inches in width, about how many books will fit on the shelf?
+---
+5\.  The width of a rectangle is 3 ½ inches, and the length is 4 ¾ inches.  What is the area of the rectangle?
+
+---
+<embed src="/teaching/materials/9/Breaking_down_problems_activity.pdf" width="750" height="480" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+
+---
+
+
