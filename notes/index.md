@@ -7,3 +7,8 @@
 # Notes
 
  * [Adding and subtracting rational numbers](/notes/adding_subtracting_rational_numbers.pdf)
+ 
+# Classwork
+
+ * [Adding and subtracting integers using number lines](/doc/adding_subtracting_with_number_lines.pdf)
+ * [Finding distances exit ticket](/doc/CW1.pdf)
