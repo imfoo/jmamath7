@@ -1,6 +1,6 @@
 Title: JMA Math 7 - Homework
 
-# Homework
+# Homeworks
 
  * [Homework for October 16-October 20](/homework/homework_oct16-oct20.pdf)
  * [Homework for October 2-October 6](/homework/homework_oct2-oct6.pdf)
