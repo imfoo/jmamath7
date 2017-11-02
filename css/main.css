@@ -48,3 +48,6 @@ nav ul li
     font-size:16px;
     font-weight:bold;
 }
+ table{width:100%;margin:1em 0;border-collapse:separate;border-spacing:3px} table th{padding:.7em;background-color:#7f8c8d;color:#fff;font-weight:400} table th:first-child{border-radius:10px 0 0} table th:last-child{border-radius:0 10px 0 0} table td{padding:.7em;background-color:#ced4d8} table tr:last-child td:first-child{border-radius:0 0 0 10px} table tr:last-child td:last-child{border-radius:0 0 10px} .inverted table td, .inverted table th{background-color:transparent;border:2px solid #ced4d8} .inverted table{border-spacing:0} .inverted table th{color:#000;font-weight:700}.title{padding:0 2em;text-align:center}
+       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
