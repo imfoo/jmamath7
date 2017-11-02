@@ -3,7 +3,11 @@ layout: true
 background-position: center;
 background-repeat: no-repeat;
 background-size: contain;
-background-image: url(../images/bg.png)
+background-image: url(../images/none.png)
+
+---
+
+test :bowtie: `:bowtie:`
 
 ---
 
