@@ -1,17 +1,19 @@
 
 # Problem solving with rational numbers
 
-Adapted from: [Stephan21]
+Adapted from: [StephanRP1]
 
 <div id="accordion" markdown="1">
 
 ## Objectives / Essential Questions 
 
- * I can 
+ * {!../objectives/2/1.md!}
+
+## Summary
 
 ## Materials
- * [Warm-up](http://www.jmamath7.org/warmups/7thGradeMathWarmUp031-2x2.pdf)
- * [Slides](/jmamath7/slides/9.rem)
+ * [Warm-up](/teaching/warmups/7thGradeMathWarmUp031-2x2.pdf)
+ * [Slides](/teaching/slides/9.rem)
 
 ## Differentiation
  * None
@@ -56,5 +58,4 @@ Adapted from: [Stephan21]
 
 </div>
 
-[Stephan21]: stephan/21.html
-[Adding and Subtracting Signed Decimals]: https://drive.google.com/open?id=0B1WN7I2qxY9EUERuZlloVUpicGM
+{!../refs.md!}

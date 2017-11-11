@@ -2,7 +2,8 @@ Title: JMA Math 7 - Homework
 
 # Homeworks
 
- * [Homework for October 31-Nov 3](/homework/homework_oct31-nov3.pdf)
+ * [Homework for November 6-November 9](/homework/homework_nov6-nov9.pdf)
+ * [Homework for October 31-November 3](/homework/homework_oct31-nov3.pdf)
  * [Homework for October 16-October 20](/homework/homework_oct16-oct20.pdf)
  * [Homework for October 2-October 6](/homework/homework_oct2-oct6.pdf)
  * [Homework for September 25-September 29](/homework/homework_sep25-sep29.pdf)

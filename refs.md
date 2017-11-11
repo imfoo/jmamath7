@@ -1,5 +1,5 @@
-[Objectives]: /teaching/objectives.md (Objectives)
-[Standards]: /teaching/standards.md (Standards)
+[Objectives]: /teaching/objectives/ (Objectives)
+[Standards]: /teaching/standards/ (Standards)
 [2017-10-02]: /teaching/lessons/1.md
 [2017-10-09]: /teaching/lessons/4.md
 [5]: /teaching/lessons/5.md
@@ -11,6 +11,10 @@
 [11]: /teaching/lessons/11.md
 [12]: /teaching/lessons/12.md
 [13]: /teaching/lessons/13.md
+[14]: /teaching/lessons/13.md
+[15]: /teaching/lessons/13.md
+[16]: /teaching/lessons/13.md
+[17]: /teaching/lessons/13.md
 [Stephan14]: /teaching/lessons/stephan/14.html
 [StephanRP1]: /teaching/lessons/stephan/RP1.html
 [StephanRP2]: /teaching/lessons/stephan/RP2.html
