@@ -11,10 +11,10 @@
 [11]: /teaching/lessons/11.md
 [12]: /teaching/lessons/12.md
 [13]: /teaching/lessons/13.md
-[14]: /teaching/lessons/13.md
-[15]: /teaching/lessons/13.md
-[16]: /teaching/lessons/13.md
-[17]: /teaching/lessons/13.md
+[14]: /teaching/lessons/14.md
+[15]: /teaching/lessons/15.md
+[16]: /teaching/lessons/16.md
+[17]: /teaching/lessons/17.md
 [Stephan14]: /teaching/lessons/stephan/14.html
 [StephanRP1]: /teaching/lessons/stephan/RP1.html
 [StephanRP2]: /teaching/lessons/stephan/RP2.html

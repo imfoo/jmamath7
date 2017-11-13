@@ -1,23 +1,277 @@
+Title: Problem solving with rational numbers
+layout: true
+background-position: top right
+background-image: url("/jmamath7/images/jma_crest.png")
+background-size: 10%
 
-## Introduction to Unit Rates
+---
 
-<p>
+<!--![:include](/teaching/procedures/start.md?raw=true)-->
+
+---
+
 .left-column[
-#### Materials
- * Math notebook
- * Pencils
- * Agenda
+# Warm-up
+.medium[
+Show all work on warm-up answer sheet.
+]
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(5)">
+    Warm-up timer: <span class="minutes" type="text">5</span> m <span class="seconds">00</span> s
+</div>
+
 ]
 .right-column[
+<img src="/teaching/warmups/future/7thGradeMathWarmUp031.png" height="900"/>
 ]
-</p>
+
+
+--
+### Answers
+
+.medium[
+1. $26 \frac{1}{2}$ 
+2. 33% 
+3. 276 
+4. A = 60 yds$^2$ 
+5. P = 20 feet
+]
+---
+
+
+<!--![:include](/teaching/procedures/homework.md?raw=true)-->
+
+---
+
+
+# Recommitting to our purpose
+
+---
+
+# Take out a piece of paper and write the following:
+
+ * What are we here to do?
+
+--
+ * Mr. Durden is here to teach math.
+
+--
+ * We are here to learn.
+
+--
+
+---
+
+# Classroom Rules $\leftarrow$ Write this.
+
+1. **Listen** for instructions
+2. Enter and exit **prepared**
+3. **Always raise your hand** to speak
+4. **Respect** your teacher and your classmates
+5. No excuses
+
+
+---
+
+# Listen for instructions
+
+## What does it look like?
+
+--
+1. Eyes on the speaker.
+
+--
+2. Sit quietly.
+
+--
+3. Think about what is being said.
+
+--
+4. Raise your hand if you have something to say or ask.
+
+---
+
+# When to listen?
+
+--
+
+* When I call for the attention of the class
+    - 3-2-1
+    - Clap to attention
+--
+
+* When a teacher or classmate is speaking to the class.
+
+--
+* Until I instruct you to begin doing something else.
+
+---
+background-position: top right
+background-image: url("/teaching/doc/mathematical_practices/3.png")
+background-size: 40%
+
+# Raise your hand to speak
+
+--
+
+Why?
+
+
+--
+ * Calling out disrupts math learning.
+
+--
+ * Calling out is unfair.
+
+--
+ * Raising your hand is principled.
+
+--
+.medium[
+Principled: We act with integrity and honesty, with a strong sense of fairness, justice and respect for the dignity of the individual, groups and communities. We take responsibility for our actions and their consequences.
+]
+
+
+---
+
+# Respect your teacher and your classmates
+
+--
+
+Why?
+
+--
+ * To make the classroom more enjoyable for everyone
+ * Showing respect is caring.
+
+.medium[
+Caring: We show empathy, compassion and respect. We have a
+commitment to service, and we act to make a positive dierence
+in the lives of others and in the world around us.
+]
+
+---
+
+## Materials
+|                  |                 ||||
+|------------------|-----------------||||
+| <img src="/teaching/jmamath7/images/composition_book.jpg" height="150px"/> | <img src="/teaching/jmamath7/images/folder.jpg" height="150px"/>|<img src="/teaching/jmamath7/images/pencils.jpg" height="120px"/>|<img src="/teaching/jmamath7/images/agenda.jpg" height="150px"/>|<img src="/teaching/jmamath7/images/glue_stick.jpg" height="150px"/>|
+|Math notebook | 2-pocket folder |  Pencils         |  Agenda          | Glue stick|
+
+--
+In your agenda, list of all the above materials that you do not have with you today.
+
+---
+
+# Consequences for not following the rules
+
+1. Warning
+
+--
+2. In-class consequence (signature, reflection, cool-down time)
+
+--
+3. Outside-of-class consequence (loss of PPA, parent contact, removal from classroom, detention, administrative referral)
+
+--
+
+## Exceptions
+
+--
+1. If you are doing something that is unsafe, I will skip steps 1 and 2.
+
+---
+
+### What are we here to do? 
+
+### Classroom rules
+
+.small[
+**Listen for instructions**
+
+What does it look like?
+
+$\vdots$
+
+**Materials**
+
+$\vdots$
+
+### Consequences for not following the rules
+
+$\vdots$
+
+I understand the rules and the consequences and I commit to abiding by them.
+
+*Signature*$\underline{\hspace{5cm}}$  *Date*$\underline{\hspace{5cm}}$ 
+
+]
+
+
+---
+
+# Turning in work
+
+1. Wait until I instruct the class to turn in the work.
+1. If there is nobody to your right, pass your paper to your left.
+2. If there is someone to your right, do not pass any papers to your left until you have received their papers.
+3. Once you have received their papers, stack the papers neatly and pass them to your left.
+4. If you cannot reach the person to your left, stand up and walk the papers to that person.
+5. Once the papers reach the left, pass them to the person in the back row.
+6. That person places the papers in the box for our block. 
+---
+
+# Homework revisions
+
+Example: John's credit card has a balance of -$100. He makes a payment of $50, and then buys a bus pass for $40. How much does he owe now?
+
+Order the following decimals: $-1.07, 0.4, -0.4, -1, 0.06, 0.056$.
+
+Find $0.291 + 1.561$.
+
+Find $4 \frac{2}{3} - 1 \frac{6}{7}$.
+
+
+---
+
+Resources:
+* [Unit 1 Review slides](/doc/unit1review.rem)
+* [Ordering decimals](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-comparing-decimals/v/comparing-decimals-1-example)
+* [Adding decimals](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals/v/adding-decimals-example-1)
+* [Multiplying decimals](https://www.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-operations-with-decimals/v/more-involved-multiplying-decimals-example)
+
+
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(15)">
+    Timer: <span class="minutes" type="text">15</span> m <span class="seconds">00</span> s
+</div>
+
+---
+
+# Unit 2: Is Beauty $\phi$?
+
+.large[
+.left-column[
+<img src="/teaching/jmamath7/images/triacontahedron.png" width="250px"/> 
+]
+.right-column[
+## Key Concept: Relationships
+
+## Related Concepts: Patterns, Equivalence, Justification
+]
+]
+
+
+
+---
+## Introduction to Unit Rates
+
+
 <p>
 <div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(5)">
     Warm-up timer: <span class="minutes" type="text">5</span> m <span class="seconds">00</span> s
 </div>
 </p>
 
-
+---
 
 .large[
 .left-column[
@@ -36,12 +290,15 @@
 ]
 ]
 
+---
 
+<img src="/teaching/doc/mathematical_practices/3.png" height="600"/>
 
+---
 
 **Objective:**
 
-![:include](../teaching/objectives/2/1.md?raw=true)
+<!--![:include](../teaching/objectives/2/1.md?raw=true)-->
 
 
 ---
@@ -75,6 +332,9 @@ When the timer says “go:”
 Student 1 will start hopping on one foot.
 The counter will count the number of hops until the timer says “stop.”
 Each student records the number of hops in the table.
+
+<!--[Stopwatch app](http://www.online-stopwatch.com/large-stopwatch/)-->
+<a href="http://www.online-stopwatch.com/large-stopwatch/" target="_blank">Stopwatch app</a>
 
 ---
 
