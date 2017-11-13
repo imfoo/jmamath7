@@ -1,0 +1,3 @@
+digraph standards_progression {
+  "NS.1a" -> "NS.2a"
+}
