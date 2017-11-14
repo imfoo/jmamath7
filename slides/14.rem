@@ -1,0 +1,434 @@
+Title: Problem solving with rational numbers
+layout: true
+background-position: top right
+background-image: url("/jmamath7/images/jma_crest.png")
+background-size: 10%
+
+---
+
+.left-column[
+# Warm-up
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp036.png" height="800"/>
+]
+
+
+---
+
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. Combine like terms. A term with variables cannot be combined with a term without a variable.
+2. First, combine like terms.
+3. Associative property: $(a\cdot b) \cdot c = a \cdot (b \cdot c)$
+
+4. $\begin{align}A  &= \frac{1}{2} (\text{base}) \cdot (\text{height}) \\\\ &= \frac{1}{2}b \cdot h\end{align}$
+]
+
+---
+.left-column[
+# Warm-up #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$\color{red}{3x} + 26 + \color{red}{(-3x)}$
+]
+
+
+--
+$26 + \color{red}{0}$
+
+
+--
+$26$
+
+
+---
+
+.left-column[
+# Warm-up #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$\color{red}{24x} \color{green}{+13} \color{red}{- 15x}\color{green}{-6} = 43$
+
+$\color{red}{24x} + \color{green}{13} +\color{red}{(- 15x)}+\color{green}{(-6)} = 43$
+]
+
+
+--
+Collect like terms.
+
+
+--
+How many $\color{red}{x}$?
+
+--
+$\color{red}{(24-15)x}$
+
+--
+$=\color{red}{9x}$
+
+
+--
+How many $\color{green}{units}$ (without a variable)?
+
+--
+ $\color{green}{(13-6)}$
+
+--
+ $=\color{green}{7}$
+
+--
+$\color{red}{9x}+\color{green}{7} = 43$
+
+
+--
+$\color{red}{9x} = 36$
+
+
+--
+$\color{red}{x} = 4$
+
+
+---
+.left-column[
+# Warm-up #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+Associative property: $(a\cdot b) \cdot c = a \cdot (b \cdot c)$
+]
+
+--
+$(38 \cdot 50) \cdot 4$
+
+
+--
+$38 \cdot (50 \cdot 4)$
+
+
+--
+$38 \cdot 200$
+
+
+--
+$7600$
+
+
+---
+.left-column[
+# Warm-up #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$\begin{align}A  &= \frac{1}{2} (\text{base}) \cdot (\text{height}) \\\\
+                &= \frac{1}{2}b \cdot h\end{align}$
+]
+
+
+--
+.large[
+$\begin{align}450 &= \frac{1}{2} 30 \cdot h \end{align}$
+]
+
+--
+$h = 2 \cdot \frac{450}{30}$
+
+
+
+--
+$h = 30$.
+
+
+---
+.left-column[
+# Warm-up #5
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+
+$235.8 + 175.6 + 204.7$
+]
+
+
+---
+
+.left-column[
+# Warm-up
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp036.png" height="800"/>
+]
+
+
+--
+![:include](/teaching/warmups/future/answers/36.md?raw=true)
+
+---
+
+# Homework due Friday, Nov 17
+
+# Order of operations quiz retake this week 
+
+---
+
+# Monday's Homework
+
+1. $-4(-3) - 4$ =
+2. $10(-5) - (-3)$ =
+3. $-6 - (-5)(-7)$ =
+4. $(28 \div 4) + 3 + (10 - 8) x 5$ = 
+5. $75 \div 3 \cdot 2 \cdot 1$ = 
+
+For each of these problems, which operation must we perform first?
+---
+# Monday's Homework
+
+1. $\color{red}{-4(-3)} - 4$ =
+
+
+--
+2. $\color{red}{10(-5)} - (-3)$ =
+
+
+--
+3. $-6 - \color{red}{(-5)(-7)}$ =
+
+
+--
+4. $\color{red}{(28 \div 4)} + 3 + (10 - 8) \times 5$ = 
+
+
+--
+5. $\color{red}{75 \div 3} \cdot 2 \cdot 1$ = 
+
+---
+
+# Order of Operations Quiz #1
+
+$\frac{1}{5}+ \color{blue}{\frac{2}{3}(9) \div \left(-\frac{3}{5}\right)}$
+
+--
+Multiplication and division before addition
+
+--
+$\frac{1}{5}+ \color{red}{\frac{2}{3}(9)} \div \left(-\frac{3}{5}\right)$
+
+--
+Leftmost multiplication or division first
+
+--
+$\frac{1}{5}+ \color{red}{6} \div \left(-\frac{3}{5}\right)$
+
+
+--
+$\frac{1}{5}+ \color{green}{6 \div \left(-\frac{3}{5}\right)}$
+
+--
+Division before addition
+
+
+--
+$\frac{1}{5}+ \color{green}{6 \cdot \left(-\frac{5}{3}\right)}$
+
+
+---
+
+# Order of Operations Quiz #1
+
+$\frac{1}{5}+ \color{green}{6 \cdot \left(-\frac{5}{3}\right)}$
+
+
+--
+$\frac{1}{5}+ \color{green}{\frac{6}{1} \cdot \left(-\frac{5}{3}\right)}$
+
+
+--
+$\frac{1}{5}+ \color{green}{-\frac{30}{3}}$
+
+
+--
+$\color{blue}{\frac{1}{5}+ -10}$
+
+--
+Last operation
+
+
+--
+$\color{blue}{\frac{1}{5}+ \frac{-50}{5}}$
+
+
+--
+$\color{blue}{-\frac{49}{5}}$
+
+---
+
+# Order of Operations Quiz #2
+
+$10-(2^2+8)\div 3 -1$
+
+
+--
+$10-\color{red}{(2^2+8)}\div 3 -1$
+
+--
+Simplify within parentheses first
+
+
+--
+$10-(\color{green}{2^2}+8)\div 3 -1$
+
+--
+Exponents before addition
+
+
+--
+$10-(\color{green}{4}+8)\div 3 -1$
+
+
+--
+$10-(\color{blue}{4+8})\div 3 -1$
+
+--
+Addition last
+
+
+--
+$10-\color{blue}{12}\div 3 -1$
+
+
+--
+$10-\color{red}{12\div 3} -1$
+
+--
+Division before subtraction
+
+
+--
+$10-\color{red}{4} -1$
+
+---
+
+# Order of Operations Quiz #2
+
+$10-4 -1$
+
+
+--
+$\color{green}{10-4}-1$
+
+--
+ **Leftmost** subtraction first
+
+
+--
+$\color{green}{6}-1$
+
+
+--
+$\color{blue}{6-1}$
+
+--
+Last operation
+
+
+--
+$\color{blue}{5}$
+---
+.left-column[
+# Objective
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(1)">
+    Timer: <span class="minutes" type="text">1</span> m <span class="seconds">00</span> s
+</div>
+]
+
+--
+.clear[
+![:include](/teaching/objectives/2/3.md?raw=true)
+]
+
+---
+
+# Practice 
+
+ 1. Complete the problems in the boxes (**Show all work** a blank sheet of looseleaf paper)
+ 2. When you **finish four problems**, you may **check your solutions**, and then move on to the next four problems.
+ 3. **Do NOT bring your paper or pencil** to the solution stations.
+
+
+---
+# Challenge
+
+Write each percent as a fraction in simplest form.
+
+1. $45 \frac{1}{2} \%$
+2. $30 \frac{1}{4} \%$
+3. $75 \frac{1}{3} \%$
+---
+
+.left-column[
+# Exit ticket
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(5)">
+    Timer: <span class="minutes" type="text">5</span> m <span class="seconds">0</span> s
+</div>
+]
+
+.clear[
+**Complete on the back of your opener:**
+]
+
+.clear[
+Larry used $\frac{3}{4}$ cup of brown sugar per $\frac{2}{3}$ cup of white sugar in a recipe. How much brown sugar is that per cup of white sugar?
+]
+
