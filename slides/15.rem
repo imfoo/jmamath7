@@ -1,0 +1,394 @@
+Title: Problem solving with rational numbers
+layout: true
+background-position: top right
+background-image: url("/jmamath7/images/jma_crest.png")
+background-size: 10%
+
+---
+
+.left-column[
+# Warm-up
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp037.png" height="800"/>
+]
+
+
+---
+
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. PEMDAS 
+2. Which pairs of numbers are easy to add together?
+3. - Tails, 1;
+   Tails, 2;
+   Tails, 3;
+   Tails, 4;
+   Tails, 5;
+   Tails, 6;
+   - Heads, 1;
+   Heads, 2;
+   Heads, 3;
+   Heads, 4;
+   Heads, 5;
+   Heads, 6;
+
+4. $C = \pi d$ $\hspace{9.5em}$
+ $C = 2 \pi r$ <br/>
+ <img src="../lessons/15/circumference_diameter.jpg" height="100"/>
+$\hspace{2.5em}$
+($d = 2r$) 
+$\hspace{2.5em}$
+<img src="../lessons/15/circumference_radius.jpg" height="100"/>
+
+5. Find the unit rate for each row in the table.
+]
+
+---
+.left-column[
+# Warm-up #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$25 + \color{red}{3^4}(3) + -17$ 
+]
+
+
+--
+$25 + \color{red}{81(3)} + -17$
+
+
+--
+$\color{red}{25 + 243} + -17$
+
+
+--
+$\color{red}{268 + -17}$
+
+
+--
+$251$
+---
+
+.left-column[
+# Warm-up #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+309+491 = 800
+]
+
+
+--
+19+31 = 50
+
+
+--
+309+491+19+31 = 850
+
+
+---
+.left-column[
+# Warm-up #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+Formula for circumference: $C = \pi d$
+]
+
+--
+From the problem, the diameter is $d = 20$ ft.
+
+
+--
+By the formula, the circumference is $C = \pi \cdot 20$
+
+
+--
+$C = 3.14 \cdot 20 = 62.8$ ft
+
+---
+.left-column[
+# Warm-up #5
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+Unit rate for the first row: $\frac{70 ~\text{students}}{2 ~\text{teachers}} = 35 \frac{\text{students}}{\text{teacher}}$.
+]
+
+
+--
+Unit rate for the first row: $\frac{105 ~\text{students}}{3 ~\text{teachers}} = 35 \frac{\text{students}}{\text{teacher}}$.
+
+
+
+--
+The ratios of teachers to students are all equivalent. The relationship between teachers and students is proportional.
+---
+
+.left-column[
+# Warm-up
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp036.png" height="800"/>
+]
+
+
+--
+![:include](/teaching/warmups/future/answers/37.md?raw=true)
+
+---
+
+# Homework due Friday, Nov 17
+
+# Order of operations quiz retake this week 
+
+---
+
+# Tuesday's Homework
+
+1. $-4(-3) - 4$ =
+2. $10(-5) - (-3)$ =
+3. $-6 - (-5)(-7)$ =
+4. $(28 \div 4) + 3 + (10 - 8) x 5$ = 
+5. $75 \div 3 \cdot 2 \cdot 1$ = 
+
+For each of these problems, which operation must we perform first?
+---
+
+# Order of Operations Quiz #1
+
+$\frac{1}{5}+ \color{blue}{\frac{2}{3}(9) \div \left(-\frac{3}{5}\right)}$
+
+--
+Multiplication and division before addition
+
+--
+$\frac{1}{5}+ \color{red}{\frac{2}{3}(9)} \div \left(-\frac{3}{5}\right)$
+
+--
+Leftmost multiplication or division first
+
+--
+$\frac{1}{5}+ \color{red}{6} \div \left(-\frac{3}{5}\right)$
+
+
+--
+$\frac{1}{5}+ \color{green}{6 \div \left(-\frac{3}{5}\right)}$
+
+--
+Division before addition
+
+
+--
+$\frac{1}{5}+ \color{green}{6 \cdot \left(-\frac{5}{3}\right)}$
+
+
+---
+
+# Order of Operations Quiz #1
+
+$\frac{1}{5}+ \color{green}{6 \cdot \left(-\frac{5}{3}\right)}$
+
+
+--
+$\frac{1}{5}+ \color{green}{\frac{6}{1} \cdot \left(-\frac{5}{3}\right)}$
+
+
+--
+$\frac{1}{5}+ \color{green}{-\frac{30}{3}}$
+
+
+--
+$\color{blue}{\frac{1}{5}+ -10}$
+
+--
+Last operation
+
+
+--
+$\color{blue}{\frac{1}{5}+ \frac{-50}{5}}$
+
+
+--
+$\color{blue}{-\frac{49}{5}}$
+
+---
+
+# Order of Operations Quiz #2
+
+$10-(2^2+8)\div 3 -1$
+
+
+--
+$10-\color{red}{(2^2+8)}\div 3 -1$
+
+--
+Simplify within parentheses first
+
+
+--
+$10-(\color{green}{2^2}+8)\div 3 -1$
+
+--
+Exponents before addition
+
+
+--
+$10-(\color{green}{4}+8)\div 3 -1$
+
+
+--
+$10-(\color{blue}{4+8})\div 3 -1$
+
+--
+Addition last
+
+
+--
+$10-\color{blue}{12}\div 3 -1$
+
+
+--
+$10-\color{red}{12\div 3} -1$
+
+--
+Division before subtraction
+
+
+--
+$10-\color{red}{4} -1$
+
+---
+
+# Order of Operations Quiz #2
+
+$10-4 -1$
+
+
+--
+$\color{green}{10-4}-1$
+
+--
+ **Leftmost** subtraction first
+
+
+--
+$\color{green}{6}-1$
+
+
+--
+$\color{blue}{6-1}$
+
+--
+Last operation
+
+
+--
+$\color{blue}{5}$
+---
+.left-column[
+# Objective
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(1)">
+    Timer: <span class="minutes" type="text">1</span> m <span class="seconds">00</span> s
+</div>
+]
+
+--
+.clear[
+![:include](/teaching/objectives/2/4.md?raw=true)
+]
+
+---
+.left-column[
+# Objective
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(1)">
+    Timer: <span class="minutes" type="text">1</span> m <span class="seconds">00</span> s
+</div>
+]
+
+--
+.clear[
+![:include](/teaching/objectives/2/5.md?raw=true)
+]
+---
+
+# Practice 
+
+ 1. Complete each problem about unit rates.
+ 2. When you each problem, color in the drawing with the indicated color.
+
+
+---
+# Challenge
+
+Write each percent as a fraction in simplest form.
+
+1. $45 \frac{1}{2} \%$
+2. $30 \frac{1}{4} \%$
+3. $75 \frac{1}{3} \%$
+---
+
+.left-column[
+# Exit ticket
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(5)">
+    Timer: <span class="minutes" type="text">5</span> m <span class="seconds">0</span> s
+</div>
+]
+
+.clear[
+**Complete on the back of your opener:**
+]
+
+.clear[
+Larry used $\frac{3}{4}$ cup of brown sugar per $\frac{2}{3}$ cup of white sugar in a recipe. How much brown sugar is that per cup of white sugar?
+]
+
