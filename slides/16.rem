@@ -184,149 +184,6 @@ Show all work on warm-up answer sheet.
 
 ---
 
-# Tuesday's Homework
-
-1. $-4(-3) - 4$ =
-2. $10(-5) - (-3)$ =
-3. $-6 - (-5)(-7)$ =
-4. $(28 \div 4) + 3 + (10 - 8) x 5$ = 
-5. $75 \div 3 \cdot 2 \cdot 1$ = 
-
-For each of these problems, which operation must we perform first?
----
-
-# Order of Operations Quiz #1
-
-$\frac{1}{5}+ \color{blue}{\frac{2}{3}(9) \div \left(-\frac{3}{5}\right)}$
-
---
-Multiplication and division before addition
-
---
-$\frac{1}{5}+ \color{red}{\frac{2}{3}(9)} \div \left(-\frac{3}{5}\right)$
-
---
-Leftmost multiplication or division first
-
---
-$\frac{1}{5}+ \color{red}{6} \div \left(-\frac{3}{5}\right)$
-
-
---
-$\frac{1}{5}+ \color{green}{6 \div \left(-\frac{3}{5}\right)}$
-
---
-Division before addition
-
-
---
-$\frac{1}{5}+ \color{green}{6 \cdot \left(-\frac{5}{3}\right)}$
-
-
----
-
-# Order of Operations Quiz #1
-
-$\frac{1}{5}+ \color{green}{6 \cdot \left(-\frac{5}{3}\right)}$
-
-
---
-$\frac{1}{5}+ \color{green}{\frac{6}{1} \cdot \left(-\frac{5}{3}\right)}$
-
-
---
-$\frac{1}{5}+ \color{green}{-\frac{30}{3}}$
-
-
---
-$\color{blue}{\frac{1}{5}+ -10}$
-
---
-Last operation
-
-
---
-$\color{blue}{\frac{1}{5}+ \frac{-50}{5}}$
-
-
---
-$\color{blue}{-\frac{49}{5}}$
-
----
-
-# Order of Operations Quiz #2
-
-$10-(2^2+8)\div 3 -1$
-
-
---
-$10-\color{red}{(2^2+8)}\div 3 -1$
-
---
-Simplify within parentheses first
-
-
---
-$10-(\color{green}{2^2}+8)\div 3 -1$
-
---
-Exponents before addition
-
-
---
-$10-(\color{green}{4}+8)\div 3 -1$
-
-
---
-$10-(\color{blue}{4+8})\div 3 -1$
-
---
-Addition last
-
-
---
-$10-\color{blue}{12}\div 3 -1$
-
-
---
-$10-\color{red}{12\div 3} -1$
-
---
-Division before subtraction
-
-
---
-$10-\color{red}{4} -1$
-
----
-
-# Order of Operations Quiz #2
-
-$10-4 -1$
-
-
---
-$\color{green}{10-4}-1$
-
---
- **Leftmost** subtraction first
-
-
---
-$\color{green}{6}-1$
-
-
---
-$\color{blue}{6-1}$
-
---
-Last operation
-
-
---
-$\color{blue}{5}$
----
-
 # Order of operations practice
 
 <img src="../lessons/15/pemdas.jpg" height="500"/>
@@ -490,10 +347,24 @@ $ 5$
 ]
 ---
 
-# Practice 
+# Explore
 
- 1. Complete each problem about unit rates.
- 2. When you each problem, color in the drawing with the indicated color.
+<img src="../lessons/16/explore1.png" height=600/>
+---
+
+
+# Notes
+
+Proportional and Non-Proportional Relationships
+A **proportional relationship** is a relationship between two quantities in which the **ratio** of one quantity to the other is 
+
+--
+**constant**.
+
+
+--
+In the activity you just completed, the tortoise maintained a **constant** speed; therefore the relationship between time and distance for the tortoise is **proportional.
+
 
 
 ---

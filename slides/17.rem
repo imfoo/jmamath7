@@ -1,0 +1,221 @@
+Title: Problem solving with rational numbers
+layout: true
+background-position: top right
+background-image: url("/jmamath7/images/jma_crest.png")
+background-size: 10%
+
+---
+
+.left-column[
+# Warm-up
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp039.png" height="800"/>
+]
+
+
+---
+
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. <img src="images/distributive_property_example.png" height="75"/>
+2. $C = \pi d$ $\hspace{9.5em}$
+ $C = 2 \pi r$ <br/>
+ <img src="../lessons/15/circumference_diameter.jpg" height="100"/>
+$\hspace{2.5em}$
+($d = 2r$) 
+$\hspace{2.5em}$
+<img src="../lessons/15/circumference_radius.jpg" height="100"/>
+
+3. You can set this up as: $\frac{x}{1000} = \frac{?}{?}$. Fill in the blanks.
+4. You can set this up as: $\frac{x}{1500} = \frac{?}{100}$. Fill in the blanks.
+5. Set up the unit rate as a ratio.
+]
+
+---
+.left-column[
+# Warm-up #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$-9(3x+7x-8) = -9\cdot 3x +(-9)\cdot 7x +(-9)\cdot(-8)$
+]
+
+---
+
+.left-column[
+# Warm-up
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp039.png" height="800"/>
+]
+
+
+--
+![:include](/teaching/warmups/future/answers/39.md?raw=true)
+
+---
+
+# Homework 
+
+* Take out your homework and a **pen** for grading.
+
+---
+
+# Homework answers
+
+## Monday
+1. 8
+2. -47
+3. -41
+4. 16
+5. 60
+
+---
+
+# Homework answers
+
+## Tuesday
+1. $\frac{5}{36}$
+2. $-125$
+3. $140$
+4. $45$
+5. $7$
+
+---
+
+# Homework answers
+
+## Wednesday
+1. $7.63$
+2. $\frac{3}{2}$ or $1 \frac{1}{2}$
+3. $-12$
+4. $56$
+5. $-29$
+
+
+---
+
+# Homework answers
+
+## Thursday
+1. $15$
+2. $32$
+3. $\$383$
+4. $6 \cdot (6+6) \cdot 6 - 6 = 426$
+5. $130$
+
+---
+
+
+# Order of operations practice
+
+<img src="../lessons/15/pemdas.jpg" height="500"/>
+
+---
+
+# Order of operations practice
+
+1. $3 \frac{1}{2} + (-6)\cdot(2 \frac{2}{3} + 1 \frac{1}{2})$
+
+2. $5^2 + 6 \div (- 2) - 6 \cdot 3$
+
+3. $16 \div 2^2 + 16 \cdot (-3- 2) - 6$
+
+4. $ \frac{(40 \div 8)^2}{-14+4\cdot 7 -3^2}$
+
+
+
+---
+.left-column[
+# Objective
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(1)">
+    Timer: <span class="minutes" type="text">1</span> m <span class="seconds">00</span> s
+</div>
+]
+
+--
+.clear[
+![:include](/teaching/objectives/2/5.md?raw=true)
+]
+---
+
+# Explore
+
+<img src="../lessons/16/explore1.png" height=600/>
+---
+
+
+# Notes
+
+Proportional and Non-Proportional Relationships
+A **proportional relationship** is a relationship between two quantities in which the **ratio** of one quantity to the other is 
+
+--
+**constant**.
+
+
+--
+In the activity you just completed, the tortoise maintained a **constant** speed; therefore the relationship between time and distance for the tortoise is **proportional.
+
+
+
+---
+# Challenge
+
+Write each percent as a fraction in simplest form.
+
+1. $45 \frac{1}{2} \%$
+2. $30 \frac{1}{4} \%$
+3. $75 \frac{1}{3} \%$
+---
+
+.left-column[
+# Exit ticket
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(5)">
+    Timer: <span class="minutes" type="text">5</span> m <span class="seconds">0</span> s
+</div>
+]
+
+.clear[
+**Complete on the back of your opener:**
+]
+
+.clear[
+Larry used $\frac{3}{4}$ cup of brown sugar per $\frac{2}{3}$ cup of white sugar in a recipe. How much brown sugar is that per cup of white sugar?
+]
+

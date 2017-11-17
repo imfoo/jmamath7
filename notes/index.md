@@ -1,3 +1,5 @@
+[Order of operations practice](/slides/oo.rem)
+
 # Unit 1 resources
 
  * [Unit 1 review slides](/doc/unit1review.rem)

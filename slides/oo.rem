@@ -1,0 +1,191 @@
+# Order of operations practice
+
+<img src="../lessons/15/pemdas.jpg" height="500"/>
+
+---
+
+# Order of operations practice
+
+1. $3 \frac{1}{2} + (-6)\cdot(2 \frac{2}{3} + 1 \frac{1}{2})$
+
+2. $5^2 + 6 \div (- 2) - 6 \cdot 3$
+
+3. $16 \div 2^2 + 16 \cdot (-3- 2) - 6$
+
+4. $ \frac{(40 \div 8)^2}{-14+4\cdot 7 -3^2}$
+
+
+
+---
+# Order of operations
+
+1. $3 \frac{1}{2} + (-6)\cdot(2 \frac{2}{3} + 1 \frac{1}{2})$
+
+--
+Simplify inside parentheses
+
+
+--
+$3 \frac{1}{2} + (-6)\cdot(\frac{8}{3} + \frac{3}{2})$
+
+
+--
+$3 \frac{1}{2} + (-6)\cdot(\frac{16}{6} + \frac{9}{6})$
+
+
+--
+$3 \frac{1}{2} + (-6)\cdot(\frac{25}{6})$ 
+
+--
+Multiply before adding
+
+
+--
+$3 \frac{1}{2} + -25$
+
+--
+Add
+
+
+--
+$\frac{7}{2} + \frac{-50}{2}$
+
+
+--
+$\frac{-43}{2}$
+
+
+---
+2\. $3^2 + 6 \div (- 2) - 6 \cdot 3$ 
+
+--
+Exponents before MDAS
+
+
+--
+$9 + 6 \div (- 2) - 6 \cdot 3$
+
+--
+Multiplication/division **left to right**
+
+
+--
+$9 + -3 - 6 \cdot 3$
+
+--
+Continue multiplication/division
+
+
+--
+$9 + -3 - 18$
+
+--
+Addition/subtraction **left to right**
+
+
+--
+$6 - 18$
+
+--
+Addition/subtraction **left to right**
+
+
+--
+$-12$
+
+
+---
+3\. $16 \div 2^2 + 16 \cdot (-3- 2) - 6$
+
+--
+Simplify inside parentheses
+
+
+--
+$16 \div 2^2 + 16 \cdot (-5) - 6$
+
+--
+Exponents
+
+
+--
+$16 \div 4 + 16 \cdot (-5) - 6$
+
+--
+Multiplication/division **left to right**
+
+
+--
+$4 + 16 \cdot (-5) - 6$
+
+--
+Multiplication/division **left to right**
+
+
+--
+$4 + -80 - 6$
+
+--
+Addition/subtraction **left to right**
+
+
+--
+$-76 - 6$
+
+--
+Addition/subtraction **left to right**
+
+
+--
+$-82$
+
+
+---
+4\. $ \frac{(40 \div 8)^2}{-14+4\cdot 7 -3^2}$
+
+--
+Simplify inside parentheses
+
+
+--
+$ \frac{5^2}{-14+4\cdot 7 -3^2}$
+
+--
+Simplify numerator and denominator
+
+
+--
+$ \frac{25}{-14+4\cdot 7 -3^2}$
+
+--
+Exponent in denominator
+
+
+--
+$ \frac{25}{-14+4\cdot 7 -9}$
+
+--
+Multiplication before addition and subtraction
+
+
+--
+$ \frac{25}{-14+28 -9}$
+
+--
+Addition/subtraction from **left to right**
+
+
+--
+$ \frac{25}{14 -9}$
+
+
+--
+$ \frac{25}{5}$
+
+--
+Numerator and denominator simplified, reduce the fraction.
+
+
+--
+$ 5$
+
