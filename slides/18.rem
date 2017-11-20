@@ -1,0 +1,248 @@
+Title: Problem solving with rational numbers
+layout: true
+background-position: top right
+background-image: url("/jmamath7/images/jma_crest.png")
+background-size: 10%
+
+---
+
+.left-column[
+# Warm-up
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp040.png" height="800"/>
+]
+
+
+---
+
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. Remember the rules for adding integers.
+2. First simplify by combining like terms.
+3. 
+.medium[
+$\begin{align}\text{Probability of an event} &= \frac{\text{Number of ways the event can happen}}{\text{Total number of possible outcomes}}\end{align}$
+]
+
+The **event** is: **an "i" is selected**
+
+The **possible outcomes** are **all ways of selecting a letter.**
+4. If you earn $8 \%$ simple interest, then you earn $8 \%$ of $\$40,000$ **every year**. 
+5. Two angles are called **complimentary** if their sum is $90^\circ$.
+]
+
+---
+.left-column[
+# Warm-up #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$18x + 27 -42x - 12 = -81$
+]
+
+
+--
+
+$\hspace{5em} 18x - 42x = -24x$
+
+
+--
+
+$\hspace{5em} 27-12 = 15$
+
+
+--
+
+$-24x + 15 = -81$
+
+
+--
+
+$-24x = -96$
+
+
+--
+$x = 4$
+
+---
+.left-column[
+# Warm-up #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+Ways to select an "i" from magn**i**f**i**cent: $2$
+]
+
+--
+
+Total number of possible outcomes
+
+
+--
+
+$\hspace{5em} =$ number of letters in from magnificent: $11$
+
+
+--
+.medium[
+$\begin{align}\text{Probability of selecting an "i"} &= \frac{\text{Number of ways to select an "i"}}{\text{Total number of possible outcomes}}\end{align}$
+]
+
+
+--
+$\hspace{10em} = \frac{2}{11}$
+
+---
+.left-column[
+# Warm-up #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$8\% \text{ of } 40,000 = 0.08  \cdot 40,000 = \$3,200$
+]
+
+--
+
+This is the amount earned **every year**
+
+--
+
+After two years you earn $2 \cdot \$3,200 = \$6,400$.
+
+---
+
+.left-column[
+# Warm-up
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp040.png" height="800"/>
+]
+
+
+--
+![:include](/teaching/warmups/future/answers/40.md?raw=true)
+
+---
+
+# Order of operations practice
+
+<img src="../lessons/15/pemdas.jpg" height="500"/>
+
+---
+
+# Order of operations practice
+
+1. $3 \frac{1}{2} + (-6)\cdot(2 \frac{2}{3} + 1 \frac{1}{2})$
+
+2. $5^2 + 6 \div (- 2) - 6 \cdot 3$
+
+3. $16 \div 2^2 + 16 \cdot (-3- 2) - 6$
+
+4. $ \frac{(40 \div 8)^2}{-14+4\cdot 7 -3^2}$
+
+
+
+---
+.left-column[
+# Objective
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(1)">
+    Timer: <span class="minutes" type="text">1</span> m <span class="seconds">00</span> s
+</div>
+]
+
+--
+.clear[
+![:include](/teaching/objectives/2/5.md?raw=true)
+]
+---
+
+[Proportional Relationships Slides](https://docs.google.com/presentation/d/1bMqet7Qt_l5d8PTi1l6a9TGWwzOy7jNrfbj-EU__IAY/edit)
+
+---
+# Explore
+
+<img src="../lessons/16/explore1.png" height=600/>
+---
+
+
+# Notes
+
+Proportional and Non-Proportional Relationships
+A **proportional relationship** is a relationship between two quantities in which the **ratio** of one quantity to the other is 
+
+--
+**constant**.
+
+
+--
+In the activity you just completed, the tortoise maintained a **constant** speed; therefore the relationship between time and distance for the tortoise is **proportional.
+
+
+
+---
+# Write each percent as a fraction in simplest form.
+
+1. $45 \frac{1}{2} \%$
+2. $30 \frac{1}{4} \%$
+3. $75 \frac{1}{3} \%$
+
+---
+
+.left-column[
+# Exit ticket
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(5)">
+    Timer: <span class="minutes" type="text">5</span> m <span class="seconds">0</span> s
+</div>
+]
+
+.clear[
+**Complete on the back of your opener:**
+]
+
+.clear[
+Larry used $\frac{3}{4}$ cup of brown sugar per $\frac{2}{3}$ cup of white sugar in a recipe. How much brown sugar is that per cup of white sugar?
+]
+
