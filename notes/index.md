@@ -1,3 +1,4 @@
+[Order of operations quiz review](/slides/oo_quiz.rem)
 [Order of operations practice](/slides/oo.rem)
 
 # Unit 1 resources
