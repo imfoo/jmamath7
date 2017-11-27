@@ -1,0 +1,22 @@
+# Warm-up
+.left-column[
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp046.png" height="800"/>
+]
+
+
+--
+![:include](/teaching/warmups/future/answers/46.md?raw=true)
+
+---
+

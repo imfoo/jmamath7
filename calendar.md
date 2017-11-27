@@ -25,10 +25,7 @@
 2017-10-30 Mon |             |              |     |     |     |     | [Conferences](/teaching/records/conferences/index.md)
 2017-10-31 Tue |             |              |     |     |     |     | [Modified Schedule](doc/oct31schedule.pdf), Reset: review procedures, notebook expectations, warm-ups; Reteach day + order of operations and distributive property (tech, teacher, hands-on, problem-solving, workbooks; rotate every 10 minutes), spiral assessments, day during the week when kids are retesting; Block 1: 9:20-11:20 (48+72 min) NC Check-Ins, Blocks 4,5: (72 minutes) Unit 1 Interim Retakes
 2017-11-01 Wed |             |              |     |     |     |     | Block 1: NC Check-Ins, Review IB projects [Bulletin](/teaching/bulletins/oct31.pdf) 
--->
 
-Date           | [Standards] | [Objectives] |  1  |  2  |  4  |  5  | Other
----------------|-------------|--------------|:---:|:---:|:---:|:---:|-------
 2017-11-06 Mon | RP.1        |              |  
 2017-11-07 Tue | RP.1        |              |     |     |     |     | 
 2017-11-08 Wed | RP.1        |              |     |     |     |     | 
@@ -38,34 +35,41 @@ Date           | [Standards] | [Objectives] |  1  |  2  |  4  |  5  | Other
 2017-11-14 Tue | RP.2        | {!objectives/2/3.md!}            | [14]|     | [14]| [14]| [StephanRP3] 
 2017-11-15 Wed | RP.2        | {!objectives/2/4.md!}            | [15]|     | [15]| [15]| [StephanRP4] 
 2017-11-16 Thu | RP.2        | {!objectives/2/5.md!}            | [16]|     | [16]| [16]| [StephanRP5]   
-2017-11-17 Fri | RP.2        | {!objectives/2/6.md!}            | [17]|     | [17]| [17]| [StephanRP6] [StephanRP7] [StephanRP8] [StephanRP9]  [StephanRP10]  [StephanRP11]   
-2017-11-20 Mon | G.1         |              | |     | | | [StephanG1] 
-2017-11-21 Tue | G.1         |              | |     | | | [StephanG2] 
-2017-11-22 Wed | G.1         |              | |     | | | [StephanG3]  
-2017-11-23 Thu | G.1         |              | |     | | | [StephanG4]  [StephanG5]  [StephanG6]  [StephanG7]  
+2017-11-17 Fri | RP.2        | {!objectives/2/6.md!}            | [17]|     | [17]| [17]| [StephanRP6]    
+2017-11-20 Mon | RP.2        |              | |     | | | [StephanRP7]  [StephanG1] 
+2017-11-21 Tue | RP.         |              | |     | | | [StephanRP8]  [StephanG2] 
+2017-11-22 Wed | G.1         |              | |     | | | [StephanRP9]  [StephanG3]  
+2017-11-23 Thu | G.1         |              | |     | | |   [StephanRP10]  [StephanRP11][StephanG4]  [StephanG5]  [StephanG6]  [StephanG7]  
+-->
 
 
-<!--
-2017-11-22 Wed |             |              |     |     |     |     | Thanksgiving 
-2017-11-23 Thu |             |              |     |     |     |     | Thanksgiving
-2017-11-24 Fri |             |              |     |     |     |     | Thanksgiving
-2017-11-27 Mon | 
-2017-11-28 Tue | 
-2017-11-29 Wed | 
-2017-11-30 Thu | 
-2017-12-01 Fri | 
+Date           | [Standards] | [Objectives]          | Lessons   | Other
+---------------|-------------|-----------------------|:---------:|-------
+2017-11-20 Mon | RP.1        | {!objectives/2/4.md!} 11, 17 | [16]      | [StephanRP5]
+2017-11-21 Tue | RP.2        | {!objectives/2/5.md!} 4, 6, 10?, 15 | [16]      | [StephanRP5]
+||||
+2017-11-27 Mon | RP.2        | {!objectives/2/6.md!} 1, 9, 13 | [17]      | [StephanRP6] [Opener](lessons/20/opener.docx) [Notes](lessons/20/notes.docx) [DE Video](https://app.discoveryeducation.com/learn/videos/0a15dc37-da7d-4d01-8c39-fef222ef79a3/) [IB Board](https://docs.google.com/document/d/1yobbD2zNyEzskEOmlpT1lZEnl5Hv2JUMzGGYUr6vq60/edit)
+2017-11-28 Tue | RP.2        | {!objectives/2/7.md!}  3, 5, 10?, 16 | [18]      | [StephanRP7] 
+2017-11-29 Wed | RP.2        | {!objectives/2/8.md!} 7, 14, |           | [StephanRP8] 
+2017-11-30 Thu | RP.2        | {!objectives/2/9.md!} 8, 18, |           | [StephanRP9] 
+2017-12-01 Fri | RP.2        | {!objectives/2/10.md!} 2, 12, 19, 20 |           | [StephanRP10] 
+||||
 2017-12-04 Mon | 
 2017-12-05 Tue | 
 2017-12-06 Wed | 
 2017-12-07 Thu | 
-2017-12-08 Fri | 
-2017-12-11 Mon | 
+2017-12-08 Fri |             | Unit 2 test
+2017-12-11 Mon | EE.1        |
 2017-12-12 Tue | 
 2017-12-13 Wed | 
 2017-12-14 Thu | 
 2017-12-15 Fri | 
 2017-12-18 Mon | 
 2017-12-19 Tue | 
+
+
+<!--
+
 2017-12-20 Wed | 
 2017-12-21 Thu | 
 2017-12-22 Fri | 
