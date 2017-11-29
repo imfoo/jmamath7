@@ -20,3 +20,30 @@ Show all work on warm-up answer sheet.
 
 ---
 
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. First obtain common denominators.
+2. When you add a number and its additive inverse, you get $\ldots$.
+3. Set up a proportion: $\frac{220}{4} = \frac{?}{?}$ (fill in the blanks)
+4. 
+.medium[
+$\begin{align}\text{Probability of an event} &= \frac{\text{Number of ways the event can happen}}{\text{Total number of possible outcomes}}\end{align}$
+]
+
+The **event** is: **an 7 is rolled**
+
+The **possible outcomes** are **all ways of rolling.**
+5. Draw a picture. Which angles are adjacent in your picture? Adjacent means $\ldots$.
+]
+
+---
+---
+
