@@ -20,3 +20,157 @@ Show all work on warm-up answer sheet.
 
 ---
 
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. The answer should be $\underline{\hspace{2em}}$ $1$.
+2. To factor, write the expression as the product of factors. This means you find an expression that looks like $\underline{\hspace{1em}}(\underline{\hspace{1em}}x+\underline{\hspace{1em}})$. The first blank will be the greatest common factor of $\underline{\hspace{1em}}$ and $\underline{\hspace{1em}}$.
+3. The **associative property of addition:** $(a+b)+c = a+(b+c)$.
+4. The formula for the area of a rectangle is $A=\ldots$.
+5. How can we set this up as a proportion? $\frac{?}{?} = \frac{?}{?}$.
+]
+
+---
+.left-column[
+# Warm-up #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$0.\bar{3}$
+]
+
+---
+.left-column[
+# Warm-up #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$24x+16 = \underline{\hspace{1em}}(\underline{\hspace{1em}}x+\underline{\hspace{1em}})$.
+]
+
+
+**Fill in first blank:**
+
+
+--
+Find the greatest common factor of $24x$ and $16$.
+
+
+--
+Factors of $16$: $1,2,4,8,16$
+
+
+--
+Factors of $24x$: $1,2,3,4,6,8,12,24,x,2x,3x,4x,6x,8x,12x,24x$
+
+
+--
+$24x+16 = 8(\underline{\hspace{1em}}x+\underline{\hspace{1em}})$
+
+
+--
+$24x+16 = 8(3x+2)$
+
+
+
+---
+.left-column[
+# Warm-up #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+By the associative property
+]
+
+
+--
+$(79+218)+182 = 79+(218+182)$
+
+
+--
+$\qquad = 79+400$
+
+
+--
+$\qquad = 479$
+
+
+---
+.left-column[
+# Warm-up #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+The formula for the area of a rectangle is $A = l \times w$
+]
+
+$A = 8 \cdot 16$
+
+--
+$= 128 \text{ft}^2$.
+
+
+
+---
+.left-column[
+# Warm-up #5
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+Our unknown $x$ will be the number of people we would expect to be in favor of funding the park if 1,300 people are surveyed.
+]
+
+
+--
+We can set up the problem as a proportion:
+
+
+--
+$\frac{210}{300} = \frac{x}{1300}$
+
+
+--
+$x = \frac{210}{300}\cdot 1300$
+
+--
+$= \frac{21}{30}\cdot 1300$
+
+--
+$= \frac{7}{10}\cdot 1300$
+
+--
+$ = 7\cdot 130$
+
+--
+$ = 910$
+
+
+
+
