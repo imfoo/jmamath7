@@ -20,3 +20,151 @@ Show all work on warm-up answer sheet.
 
 ---
 
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. Distribute!
+2. The formula for the area of a circle is: $A = \pi r^2$.
+3. $25\%$ of $250$ is just $\frac{25}{100} \cdot 250$. We could also set this up as a proportion: $\frac{25}{100} = \frac{x}{250}$.
+4. Suppose the cost of the food was $\$10$. What would her tip be? What percent of $\$10$ is this?
+5. Are people at dog shows likely to have the same preferences for pets as the general population?
+]
+
+---
+.left-column[
+# Warm-up #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$3(7x-9y+6) = 3\cdot 7x -3\cdot 9y + 3 \cdot 6)$
+]
+
+
+--
+$\qquad = 21x - 27y + 18$
+
+---
+.left-column[
+# Warm-up #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+--
+.left-column[
+<img src="images/area_of_circle.png" height="300"/>
+
+($r$ stands for the radius)
+]
+
+--
+.left-column[
+]
+
+
+--
+.right-column[
+
+
+<img src="images/circle_distances.jpg" height="230"/>
+
+$r = \frac{d}{2}$
+]
+
+--
+.right-column[
+$ \quad = \frac{40}{2} = 20$
+]
+
+--
+.right-column[
+$A = \pi \cdot 20 ^2 \approx 3.14 \cdot 400$
+]
+
+---
+.left-column[
+# Warm-up #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+$\frac{25}{100}\cdot 250$
+
+
+--
+$= \frac{1}{4}\cdot 250$
+
+
+--
+$ = \frac{250}{4}$
+
+
+--
+$ = 62.5$
+
+
+--
+$250 - 62.5 = 187.5$
+
+
+--
+$\bbox[5px,border:1px solid black]{$187.50}$
+
+
+---
+.left-column[
+# Warm-up #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+Suppose the food costs $\$10$. She payed $\ldots$
+
+
+--
+$10 \cdot 1.1$
+
+
+--
+$= 11$
+
+
+--
+So the tip would be $\$1$.
+
+
+--
+What percent of $\$10$ is this?
+
+
+--
+$\frac{1}{10}$ or $10 \%$.
+
+--
+$\bbox[5px,border:1px solid black]{10\%}$
+
+
