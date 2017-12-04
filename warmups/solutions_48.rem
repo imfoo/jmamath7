@@ -19,4 +19,129 @@ Show all work on warm-up answer sheet.
 ![:include](/teaching/warmups/future/answers/48.md?raw=true)
 
 ---
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. Remember integer rules for multiplication.
+2. First combine like terms, then get $x$ by itself.
+3. 
+.medium[
+$\begin{align}\text{Probability of an event} &= \frac{\text{Number of ways the event can happen}}{\text{Total number of possible outcomes}}\end{align}$
+]
+The **event** is: **a number less than 6 is rolled**<br/>
+The **possible outcomes** are **all ways of rolling.**<br/>
+4. Set up the fraction in the form $\frac{\bbox[border:1px solid black]{y}\text{ push-ups}}{\bbox[border:1px solid black]{x}\text{ sets}}$.
+]
+
+---
+.left-column[
+# Warm-up #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$-15(-6)(4)$
+]
+
+
+--
+$ = 80(4)$
+
+
+--
+$ = 320$
+
+---
+.left-column[
+# Warm-up #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+Combine like terms
+]
+
+$34x +22 -40x - 15 = -17$
+
+
+--
+$34x - 40x + 22-15 = -17$
+
+
+--
+$(34x - 40x) + (22-15) = -17$
+
+
+--
+$-6x + 7 = -17$
+
+
+--
+Now get $x$ by itself
+
+
+--
+$-6x = -24$
+
+
+--
+$x = 4$
+
+---
+.left-column[
+# Warm-up #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+
+]
+.medium[
+$\begin{align}\text{Probability of rolling $<$ 6} &= \frac{\text{Number of sides $<$ 6}}{\text{Total number of sides}}\end{align}$
+]
+
+
+--
+
+$\qquad \qquad \qquad \qquad = \frac{5}{6}$
+
+
+---
+.left-column[
+# Warm-up #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+
+4. Set up the fraction in the form $\frac{\bbox[border:1px solid black]{y}\text{ push-ups}}{\bbox[border:1px solid black]{x}\text{ sets}}$.
+]
+
+
+--
+$\frac{\bbox[border:1px solid black]{78}\text{ push-ups}}{\bbox[border:1px solid black]{3}\text{ sets}}$.
+
+
+--
+$= 26 \frac{\text{push-ups}}{\text{set}}$
+
 
