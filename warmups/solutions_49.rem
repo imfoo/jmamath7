@@ -20,3 +20,157 @@ Show all work on warm-up answer sheet.
 
 ---
 
+---
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. Line up the decimal points when adding decimal numbers!
+2. Change the order in which you multiply!
+3. Here is a tree diagram for two coin flips. <img src="images/tree_diagram_two_coin_flips.gif.png"/>
+4. You can calculate the markup by setting up a proportion: $\frac{x}{10} = \frac{?}{100}$
+5. The sum of **supplementary angles** is $180^\circ$.
+]
+
+---
+.left-column[
+# Warm-up #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+159 + 32.7 + 4.286
+]
+
+
+---
+.left-column[
+# Warm-up #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+Combine like terms
+]
+
+$40(32)(10)(25)$
+
+
+--
+$40(25)(32)(10)$
+
+
+--
+$1000(32)(10)$
+
+
+--
+$32000(10)$
+
+
+--
+$320000$
+
+---
+.left-column[
+# Warm-up #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+
+]
+.medium[
+$\begin{align}\text{Probability of an event} &= \frac{\text{Number of ways an event can happen}}{\text{Total number of possible outcomes}}\end{align}$
+A **tree diagram** is useful when outcomes come from multiple consecutive steps.
+]
+
+
+--
+
+A tree diagram for three coin flips: <img src="images/tree_diagram_three_coin_flips.gif"/>
+
+---
+.left-column[
+# Warm-up #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+The unknown $x$ is the markup amount (in dollars). The ratio of the markup $x$ to the original value is the ratio of $?$ to $100$:
+]
+
+
+--
+$\frac{x}{10} = \frac{?}{100}$
+
+
+--
+$\frac{x}{10} = \frac{110}{100}$
+
+
+--
+$x = \frac{110}{100}\cdot 10$
+
+
+--
+$x = \frac{110}{10}$
+
+
+--
+$x = 11$
+
+
+--
+Original cost: $\$10$. Markup: $\$11$.
+
+--
+Total cost: 
+
+--
+$\$21$
+
+---
+.left-column[
+# Warm-up #5
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+.medium[
+<img src="images/supplementary_angles.png" height="150"/> | <img src="images/complementary_angles.png" height="150"/>
+----|----
+The sum of **supplementary angles** is $180^\circ$. | The sum of **complementary angles** is $90^\circ$. 
+$120+60=180$ | $25+65 = 90$ 
+]
+
+
+--
+$x + 55 = 180$
+
+
+--
+$x = 125$
