@@ -1,5 +1,10 @@
+# Order of operations review
+
+[Adding and subtracting rational numbers practice](https://www.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-7th-rational-nos-add-sub/e/adding_and_subtracting_rational_numbers)
+[Multiplying and dividing rational numbers](https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions/e/multiplying_fractions)
+[Order of operations practice](https://www.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-order-of-operations/e/order_of_operations_2)
+[More Order of operations practice](/slides/oo.rem)
 [Order of operations quiz review](/slides/oo_quiz.rem)
-[Order of operations practice](/slides/oo.rem)
 
 # Unit 1 resources
 
