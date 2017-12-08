@@ -1,0 +1,639 @@
+# Warm-up
+.left-column[
+.small[
+Show all work on warm-up answer sheet.
+]
+.large[
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(7)">
+    Warm-up timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+]
+.right-column[
+<img src="/teaching/warmups/7thGradeMathWarmUp051.png" height="800"/>
+]
+
+
+--
+![:include](/teaching/warmups/future/answers/51.md?raw=true)
+
+---
+
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. Long division!
+2. $(-21x + 52x) + (-12y-20y) + (37z-18z)$
+3. Here is a tree diagram for two coin flips. <img src="images/tree_diagram_two_coin_flips.gif.png"/>
+4. $V = l \times w \times h$
+5. If you get $3$ hours of exercise per $2$ days. How many hours of exercise do you get per day?
+]
+
+---
+.left-column[
+# Monday #1a
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+a) $-\frac{1}{5} + \frac{7}{10} - \frac{3}{20}$
+]
+
+
+--
+$-\frac{4}{20} + \frac{14}{20} - \frac{3}{20}$
+
+
+--
+$\frac{10}{20} - \frac{3}{20}$
+
+
+--
+$\frac{7}{20}$
+
+---
+.left-column[
+# Monday #1b
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+1b) $-3\frac{3}{4} + 4\frac{3}{10} +2 \frac{3}{5}$
+]
+
+
+--
+$-\frac{15}{4} + \frac{43}{10} + \frac{13}{5}$
+
+
+--
+$-\frac{75}{20} + \frac{86}{20} + \frac{52}{20}$
+
+
+--
+$\frac{11}{20} + \frac{52}{20}$
+
+
+--
+$\frac{63}{20}$
+
+
+--
+$3 \frac{3}{20}$
+
+
+---
+.left-column[
+# Monday #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+2a)
+$\frac{8}{10}$
+
+--
+$= \frac{8 \div 2}{10 \div 2}$
+
+--
+$= \frac{4}{5}$.
+
+
+--
+2b)
+ $\frac{24}{30} $
+
+--
+$=\frac{24 \div 6}{30 \div 6}$
+
+--
+$ = \frac{4}{5}$
+
+
+--
+$\qquad \frac{30}{35}$
+
+--
+$=\frac{30\div 5}{35\div 5}$ 
+
+--
+$= \frac{6}{7}$
+
+
+--
+$\qquad \frac{4}{5} \ne \frac{6}{7}.$
+---
+.left-column[
+# Monday #3a
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+3a)
+ $(2 \cdot 4)^2 \div (2^3+8)$
+
+
+--
+$=(8)^2 \div (2^3+8)$
+
+
+--
+$=(8)^2 \div (8+8)$
+
+
+--
+$=(8)^2 \div (16)$
+
+
+--
+$=64 \div (16)$
+
+
+--
+$=4$
+
+---
+.left-column[
+# Monday #3b
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+3b)
+$(5^3-100)^2 \div 5^2$
+
+
+--
+$=(125-100)^2 \div 5^2$
+
+
+--
+$=(25)^2 \div 5^2$
+
+
+--
+$=625 \div 5^2$
+
+
+--
+$=625 \div 25$
+
+
+--
+$=25$
+
+---
+.left-column[
+# Monday #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+4. A fully-filled bucket must have $\underline{\hspace{1em}}$ times as much water as a bucket that is $\frac{1}{6}$ full.
+
+
+$2 \frac{3}{4} \cdot 6$
+
+
+--
+$= \frac{11}{4} \cdot 6$
+
+
+--
+$= \frac{66}{4}$
+
+
+--
+$= \frac{33}{2}$
+
+
+--
+$= 16 \frac{1}{2}$ gallons
+---
+.left-column[
+# Monday #5
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+Which ratio is a unit rate?
+
+---
+.left-column[
+# Tuesday #1a
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+1a) $(6+8)\cdot 6 \cdot 9$
+
+
+--
+$= 14 \cdot 6 \cdot 9$
+
+
+--
+$= 84 \cdot 9$
+
+
+--
+$= 756$
+
+
+---
+.left-column[
+# Tuesday #1b
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+1b) $-4^2 + (-3)^3 + 5(2)$
+
+
+--
+$-16 + (-3)^3 + 5(2)$
+
+
+--
+$-16 + (-3)(-3)(-3) + 5(2)$
+
+
+--
+$-16 + 9(-3) + 5(2)$
+
+
+--
+$-16 + (-27) + 5(2)$
+
+
+--
+$-16 + (-27) + 10$
+
+
+--
+$-43 + 10$
+
+
+--
+$-33$
+---
+.left-column[
+# Tuesday #1c
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+1c) $10(-5) - (-3)$
+
+
+--
+$-50 - (-3)$
+
+
+--
+$-50 + 3$
+
+
+--
+$-47$
+
+---
+.left-column[
+# Tuesday #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+High temperature - low temperature
+
+$70.4 - (-225.2)$
+
+
+--
+$= 70.4 + 225.2$
+
+
+--
+$= 295.6 ^\circ \text{ F}$
+---
+.left-column[
+# Tuesday #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+$\frac{625}{25} \frac{\text{dollars}}{\text{pair}}$
+
+--
+$= 25 \frac{\text{dollars}}{\text{pair}}$
+
+
+--
+$\frac{800}{33} \frac{\text{dollars}}{\text{pair}}$
+
+--
+$= 24.24\ldots \frac{\text{dollars}}{\text{pair}}$
+---
+.left-column[
+# Tuesday #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+$\left| \frac{-18+(-2)}{-2+7} \right|$
+
+
+--
+$=\left| \frac{-20}{5} \right|$
+
+
+--
+$=\left| -4 \right|$
+
+
+--
+$=4$
+---
+.left-column[
+# Tuesday #5
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+5) Taylor will bike $\underline{\hspace{1em}}$ times as far when she bikes for a full hour instead of $\frac{1}{2}$ hour.
+
+$\frac{1}{4} \cdot 2 = \frac{1}{2}$.
+
+
+---
+.left-column[
+# Wednesday #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+&nbsp;     |    |    |    | |
+-----|----|----|----|----
+ 9   | $18=\color{red}{2}\cdot 9$ | 27 | $36=\color{red}{4} \cdot 9$ | 
+ 7   |    | 21 |    | $35 = \color{red}{5} \cdot 7$
+
+---
+.left-column[
+# Wednesday #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+&nbsp;     |    |    |    | |
+-----|----|----|----|----
+ 9   | $18=\color{red}{2}\cdot 9$ | 27 | $36=\color{red}{4} \cdot 9$ | $\color{red}{5} \cdot 9$
+ 7   | $\color{red}{2} \cdot 7$   | 21 | $\color{red}{4} \cdot 7$   | $35 = \color{red}{5} \cdot 7$
+
+
+---
+.left-column[
+# Wednesday #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+$\frac{5}{6}\text{ of 42}$
+
+
+--
+$=\frac{5}{6} \cdot 42$
+
+
+--
+$=5 \cdot \frac{42}{6}$
+
+
+--
+$=5 \cdot 7$
+
+
+--
+$=35$
+---
+.left-column[
+# Wednesday #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+---
+.left-column[
+# Wednesday #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+
+---
+.left-column[
+# Thursday #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+---
+.left-column[
+# Thursday #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+---
+.left-column[
+# Thursday #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+$(-\frac{2}{3})^2$
+
+
+--
+$=(-\frac{2}{3})(-\frac{2}{3})$
+
+
+--
+$=(\frac{2}{3})(\frac{2}{3})$
+
+
+--
+$=\frac{2}{3}\frac{2}{3}$
+
+
+--
+$=\frac{4}{9}$
+
+---
+.left-column[
+# Thursday #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+---
+.left-column[
+# Thursday #5
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+$-6^2 \div 12 + 9$
+
+
+--
+$= -36 \div 12 + 9$
+
+
+--
+$= -3 + 9$
+
+
+--
+$= 6$
+
+---
+.left-column[
+# Thursday #6
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+
+$150 - (79+2 \cdot 13 + 38)$
+
+
+--
+$150 - (79+26 + 38)$
+
+
+--
+$150 - (105 + 38)$
+
+
+--
+$150 - (143)$
+
+
+--
+$7$
