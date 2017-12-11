@@ -1,0 +1,168 @@
+\documentclass{beamer} % "Beamer" is a word used in Germany to mean video projector. 
+%\documentclass[handout]{beamer} % "Beamer" is a word used in Germany to mean video projector. 
+\bibliographystyle{apalike} 
+\usepackage{etex}
+
+\usetheme{default} % Search online for beamer themes to find your favorite or use the Berkeley theme as in this file.
+
+%\usepackage{pstricks,auto-pst-pdf}
+\usepackage{mathtools} % for alignment of pmatrix in Example 2.4
+\usepackage{amsmath}
+%\usepackage{pst-plot}
+\usepackage{xcolor} % It may be necessary to set PCTeX or whatever program you are using to output a .pdf instead of a .dvi file in order to see color on your screen.
+\usepackage{picture}
+\usepackage{soul}
+\usepackage[normalem]{ulem}
+\usepackage{cancel}
+\usepackage{graphicx} % This package is needed if you wish to include external image files.
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usetikzlibrary{decorations.markings}
+\usetikzlibrary{intersections}
+\usetikzlibrary{decorations.pathreplacing}
+\usetikzlibrary{calc,trees,positioning,arrows,chains,shapes.geometric,%
+    decorations.pathreplacing,decorations.pathmorphing,shapes,%
+    matrix,shapes.symbols}
+\tikzset{
+>=stealth',
+  punktchain/.style={
+    rectangle, 
+    rounded corners, 
+    % fill=black!10,
+    draw=black, very thick,
+    text width=10em, 
+    minimum height=3em, 
+    text centered, 
+    on chain},
+  line/.style={draw, thick, <-},
+  element/.style={
+    tape,
+    top color=white,
+    bottom color=blue!50!black!60!,
+    minimum width=8em,
+    draw=blue!40!black!90, very thick,
+    text width=10em, 
+    minimum height=3.5em, 
+    text centered, 
+    on chain},
+  every join/.style={->, thick,shorten >=1pt},
+  decoration={brace},
+  tuborg/.style={decorate},
+  tubnode/.style={midway, right=2pt},
+}
+
+%\usepackage{kbordermatrix}
+\usepackage{adjustbox}
+\newcommand{\rr}{\mathbb{R}}
+\newcommand{\calm}{\mathcal{M}}
+\newcommand{\verteq}{\rotatebox{90}{$\,=$}}
+\newcommand{\vertsubset}{\rotatebox{90}{$\,\supset$}}
+\newcommand{\timedown}{\rotatebox{90}{$\xleftarrow[]{\textbf{time}}$}}
+\makeatletter
+\renewcommand{\boxed}[1]{\text{\fboxsep=.2em\fbox{\m@th$\displaystyle#1$}}}
+\makeatother
+
+\theoremstyle{definition} % See Lesson Three of the LaTeX Manual for more on this kind of "proclamation."
+\newtheorem*{dfn}{A Reasonable Definition}               
+
+%\title[Distance-based reconstruction]{Using the multispecies coalescent model to develop a statistically-consistent $k$-mer based method for phylogenetic tree reconstruction}
+\title[A coalescent-based $k$-mer method]{A statistically consistent coalescent-based $k$-mer method for phylogenetic tree reconstruction}
+%\subtitle[TAGMaC]
+\author{Chris Durden} 
+%\def\coauthors{Seth Sullivant, John Rhodes}
+\institute{North Carolina State University}
+\date{April 7, 2017} 
+% Remove the % from the previous line and change the date if you want a particular date to be displayed; otherwise, today's date is displayed by default.
+
+%\AtBeginSection[]  % The commands within the following {} will be executed at the start of each section.
+%{
+%\begin{frame}[t] % Within each "frame" there will be one or more "slides."  
+%\frametitle{Outline} % This is the title of the outline.
+%\tableofcontents[currentsection]  % This will display the table of contents and highlight the current section.
+%\end{frame}
+%} % Do not include the preceding set of commands if you prefer not to have a recurring outline displayed during your presentation.
+\definecolor{lavander}{cmyk}{0,0.48,0,0}
+\def\lav{lavander!90}
+\tikzstyle{an0}=[draw,circle,violet,bottom color=cyan,
+                  top color= white, text=violet,minimum width=2.5pt]
+\tikzstyle{ex0}=[draw,circle,lightgray,bottom color=lightgray,
+                  top color= white, text=violet,minimum width=2.5pt]
+\tikzstyle{an}=[draw,circle,violet,bottom color=\lav,
+                  top color= white, text=violet,minimum width=5pt]
+\tikzstyle{ex}=[draw,circle,lightgray,bottom color=lightgray,
+                  top color= white, text=violet,minimum width=5pt]
+\tikzstyle{inv}=[]
+\tikzset{
+  t/.style={every coordinate/.try}
+}
+
+\begin{document}
+
+\begin{frame}[t] %1
+\titlepage
+\end{frame}
+
+
+\section[Problem]{Tree reconstruction problem} % Since this is the start of a new section, our recurring outline will appear here.
+
+\begin{frame}[t]
+\frametitle{Phylogenetic tree reconstruction methods}
+
+\begin{columns}
+\begin{column}[T]{0.5\textwidth}
+
+\end{column}
+    \begin{column}[T]{0.5\textwidth}
+        \pause
+\begin{center}
+    \textbf{Alignment-based methods}
+
+    \vspace{0.5cm}
+
+    \visible<3->{Guide tree
+
+    $\downarrow$}
+
+Multiple sequence alignment
+
+    $\downarrow$
+
+Site pattern frequencies
+
+    $\downarrow$
+
+Inference based on substitution model
+\end{center}
+\end{column}
+
+\end{columns}
+\end{frame}
+
+\begin{frame}[t]
+\frametitle{Coalescent-based expected $k$-mer vector distance}
+%Integrating the $k$-mer vector distance formula against the gene tree probability density gives:
+    \vspace{-0.15cm}
+
+\resizebox{10cm}{!}{
+\begin{tikzpicture}[thick,domain=0:1.5,scale=2]
+    \draw (1.5,1.2) node[left] {$k=1$};
+    \draw[->] (-0.2,0) -- (3,0) node[right] {$t$};
+    \draw[thick] (0,0) -- (0,1.2) node[above] {$$};
+    \draw (0,1) node[left] {$2(l-k+1)$};
+    \draw (0,0.25) node[left] {$E_{Co,JC}[D_k]$};
+    \draw[dashed] (0,0.75) -- (3,0.75);
+    \draw[dashed] (0,1) -- (3,1);
+    \draw[color=green,domain=0:1.5] plot[id=EKVDCoJC] function{(1.0-0.25*(1+3*exp(-1.33*x)/(1+2.33)))} 
+        node[above] {$$};
+    \draw[color=blue,domain=0:1.5] plot[id=EKVDJC] function{(1.0-0.25*(1+3*exp(-1.33*2*x)))} 
+        node[below] {$N=0$};
+\end{tikzpicture}
+}
+
+\end{frame}
+
+
+% Some of the ideas for the functions presented in this document came from posts to the ap-calculus group at the Math Forum at http://mathforum.org/kb/forum.jspa?forumID=63.
+
+\end{document}
+

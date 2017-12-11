@@ -1,0 +1,379 @@
+# Ratios and Proportionality (RP.1 and RP.2) Objectives
+
+.medium[
+1. I can calculate unit rates, including those involving complex fractions.
+2. I can distinguish between proportional and nonproportional relationships.
+3. I can identify the constant of proportionality and write an equation for a proportional relationship. 
+4. I can determine if the graph of a relationship is proportional, and state the constant of proportionality and equation for the relationship.
+5. I can apply aspects of proportional reasoning including unit rates, graphs, tables, and equations to work a real world problem.
+]
+
+---
+
+# Reviewing unit rates
+
+Many of our scholars had difficulty when setting up unit rates. A lot of scholars would put the wrong unit on top or bottom.
+
+
+---
+
+A **unit rate** describes how many units of the $\color{red}{\text{first type of quantity}}$ correspond to **one** unit of the $\color{blue}{\text{second type of quantity}}$. 
+
+**Examples:**
+ * $\color{red}{\text{miles}}$ per  $\color{blue}{\text{hour}}$
+ * $\color{red}{\text{dollars}}$ per  $\color{blue}{\text{hour}}$
+ * $\color{red}{\text{cost}}$ per  $\color{blue}{\text{item}}$
+ * $\color{red}{\text{cookies}}$ per  $\color{blue}{\text{person}}$
+
+---
+
+A **unit rate** describes how many units of the $\color{red}{\text{first type of quantity}}$ correspond to **one** unit of the $\color{blue}{\text{second type of quantity}}$. 
+
+**Examples:**
+ * $\color{red}{\text{miles}}$ per **1** $\color{blue}{\text{hour}}$
+ * $\color{red}{\text{dollars}}$ per **1** $\color{blue}{\text{hour}}$
+ * $\color{red}{\text{cost}}$ per **1** $\color{blue}{\text{item}}$
+ * $\color{red}{\text{cookies}}$ per **1** $\color{blue}{\text{person}}$
+
+---
+Parker rode her bike at a rate of $2 \frac{1}{2}$ miles in $\frac{1}{3}$ of an hour.
+
+.medium[
+i) Complete a double number line to find the unit rate in miles per hour.
+]
+
+---
+Parker rode her bike at a rate of $2 \frac{1}{2}$ miles in $\frac{1}{3}$ of an hour.
+
+.medium[
+i) Complete a double number line to find the unit rate in miles per **1** hour.
+]
+
+
+
+--
+.medium[
+$\hspace{4em}$ <img src="22/double_number_line.png" width=800/>
+]
+         
+
+--
+
+.medium[
+ii) What is the unit rate in miles per hour?
+]
+
+
+--
+
+
+.medium[
+iii) How many multiples of the given rate were needed to find the unit rate? 
+]
+
+
+--
+
+
+.medium[
+iv) Based on your answer to part iii, how can a unit rate be found using multiplication?  Show an example.
+]
+
+
+---
+
+GP1) A conversion guide provides the following information:  $\frac{1}{4} \text{ quart} = 8 \text{ ounces}$
+
+.medium[
+i) Complete a double number line to find the unit rate of ounces per quart.
+]
+
+---
+
+GP1) A conversion guide provides the following information:  $\frac{1}{4} \text{ quart} = 8 \text{ ounces}$
+
+.medium[
+i) Complete a double number line to find the unit rate of ounces per **1** quart.
+]
+
+
+--
+$\hspace{4em}$ <img src="22/double_number_line.png" width=800/>
+
+.medium[
+
+ii) What is the unit rate of ounces per quart?
+
+
+iii) How many multiples of the given rate were needed to find the unit rate?
+ 
+
+iv) How can multiplication be used to find the unit rate?
+]
+---
+
+
+GP2) Jermaine placed a bucket outside to measure the rainfall.  After one-half hour the bucket is 1/5 of the way full.    
+
+.medium[
+i) Complete a double number line to determine the unit rate in terms of buckets per hour.
+
+$\hspace{4em}$ <img src="22/double_number_line.png" width=800/>
+                     
+ii) Write the unit rate in bucket per hour.
+
+
+iii) How many multiples of the given rate were needed to find the unit rate? 
+
+iv) How can multiplication be used to find the unit rate?
+]
+
+
+---
+
+# INDEPENDENT PROBLEM SOLVING
+
+
+Complete #1-3
+
+
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(15)">
+    Time left: <span class="minutes" type="text">15</span> m <span class="seconds">00</span> s
+</div>
+
+---
+
+# How did we use multiplication in each of these problems to find the unit rate?
+
+---
+A **reciprocal** is one of two numbers whose product is 1.
+
+
+--
+## Examples
+
+$\frac{1}{2}$ and $2$ are reciprocals:
+
+
+--
+ $\frac{1}{2} \cdot 2$
+
+--
+$= \frac{1}{2} \cdot \frac{2}{1}$
+
+--
+$=\frac{2}{2} = 1$
+
+
+--
+<img src="22/half_times_2.png" width=300/>
+<img src="22/two_times_one_half.png" width=600/>
+
+
+--
+$\frac{4}{5}$ and $\frac{5}{4}$ are reciprocals:
+
+--
+$\frac{4}{5} \cdot \frac{5}{4} = \frac{20}{20} = 1$
+
+
+--
+<img src="22/five_fourths_times_four_fifths.png" width=300/>
+<img src="22/four_fifths_times_five_fourths.png" width=375/>
+
+
+--
+---
+# Example 1
+
+Sarge completed $\frac{1}{10}$ of his report in $\frac{4}{5}$ of an hour.  At this rate, how much of the report will Sarge complete in 1 hour? 
+
+
+--
+$\hspace{0.25em} \frac{1}{10} \text{ of a report} \text{ per } \frac{4}{5} \text{ hours}$
+
+
+--
+$\hspace{0.5em} \downarrow \times \frac{5}{4} \hspace{5em} \downarrow \times \frac{5}{4}$
+
+
+--
+$\hspace{0.25em} \frac{5}{40} \text{ of a report} \text{ per } 1 \text{ hour}$
+
+
+--
+$\hspace{0.25em} \frac{1}{8} \text{ of a report} \text{ per hour}$
+
+
+
+---
+# You Try!
+
+It took Captain $\frac{3}{4}$ of an hour to complete $\frac{1}{8}$ of the trip.  At this rate, how much of the trip will Captain complete per hour?
+
+
+---
+
+GP1) The old man walked $\frac{2}{3}$ of a mile in $\frac{1}{2}$ of an hour.  What is this rate in miles per hour?
+
+
+---
+
+GP1) The old man walked $\frac{2}{3}$ of a mile in $\frac{1}{2}$ of an hour.  What is this rate in miles per **1** hour?
+
+
+--
+
+$\frac{2}{3} \text{ mile}  \text{ per } \frac{1}{2} \text{ hour}$
+
+
+--
+$\downarrow \times 2 \hspace{2.75em} \downarrow \times 2$
+
+
+--
+$\frac{4}{3} \text{ mile}  \text{ per } 1 \text{ hour}$
+
+
+---
+
+GP2) The paint mixer created the paint color Summer Sky by using 5 parts of blue for every $\frac{2}{3}$ parts of white.  How many parts of blue are used for every part of white?
+
+
+--
+
+$\hspace{0.5em} 5 \text{ parts of blue} \text{ per } \frac{2}{3} \text{ parts of white}$
+
+
+--
+$\hspace{0.5em} \downarrow \times \frac{3}{2} \hspace{5.5em} \downarrow \times \frac{3}{2}$
+
+
+--
+$\frac{15}{2} \text{ parts of blue} \text{ per } 1 \text{ part of white}$
+
+---
+
+GP3) The baker used 3 ½ cups of pastry flour for every 1 ½ cups of wheat flour.  How much pastry flour is used per cup of wheat flour?
+
+--
+
+$\hspace{0.25em} \frac{7}{2} \text{ cups of pastry flour} \text{ per } \frac{3}{2} \text{ cups of wheat flour}$
+
+
+--
+$\hspace{0.25em} \downarrow \times \frac{2}{3} \hspace{8.75em} \downarrow \times \frac{2}{3}$
+
+--
+$(\frac{3}{2} \cdot \frac{2}{3} = 1)$
+
+
+--
+$\frac{14}{6} \text{ cups of pastry flour} \text{ per } 1 \text{ cup of wheat flour}$
+
+---
+
+GP4) If a person walks 2 ½ miles in 1 ¼ hours at a constant speed, what is this rate in miles per hour?
+
+--
+
+$\hspace{0.25em} \frac{5}{2} \text{ miles} \text{ per } \frac{5}{4} \text{ hours}$
+
+
+--
+$\hspace{0.25em} \downarrow \times \frac{4}{5} \hspace{2.75em} \downarrow \times \frac{4}{5}$
+
+--
+$(\frac{3}{2} \cdot \frac{2}{3} = 1)$
+
+
+--
+$\frac{20}{10} \text{ miles} \text{ per } 1 \text{ hour}$
+
+
+--
+$2 \text{ miles} \text{ per hour}$
+
+
+---
+
+# INDEPENDENT PROBLEM SOLVING
+
+## Complete #1-6
+
+
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(20)">
+    Time left: <span class="minutes" type="text">20</span> m <span class="seconds">00</span> s
+</div>
+
+---
+
+# INDEPENDENT PROBLEM SOLVING
+
+## Complete #1-6
+
+
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(15)">
+    Time left: <span class="minutes" type="text">15</span> m <span class="seconds">00</span> s
+</div>
+---
+
+# INDEPENDENT PROBLEM SOLVING
+
+<div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;">
+    Time left: <span class="minutes" type="text">20</span> m <span class="seconds">00</span> s
+</div>
+
+.small[
+1. Elle placed a bucket under a leaky roof.  The bucket was $\frac{2}{5}$ full after one-half hour.  What is this rate in buckets per hour?
+2. Elle wanted to know how long it would take to fill 1 bucket.  What is this rate in hours per bucket?
+3. The punch has 7 ½ gallons of juice mix for every 1 ¼ gallons of fresh fruit juice.  How many gallons of juice mix are used per gallon of fresh fruit juice? 
+4. Waylon ran 3 ¾ miles in 25 minutes. What is the unit rate in miles per hour?
+5. Two stores advertise the turkey prices in anticipation of Thanksgiving.<br/>
+ Store A sells $3 \frac{1}{3}$ pounds of turkey for ten and one-half dollars.<br/>
+Store B sells $2 \frac{1}{2}$ pounds of turkey for six and one-quarter dollars.<br/>
+Which store has the better buy?  Explain your reasoning.<br/>
+
+6.  Which car can travel farther on 1 gallon of gas?<br/>
+Blue Viper: $18\frac{2}{5}$  miles using 0.8 gallons of gas.<br/>
+Red Rocket: $17 \frac{2}{5}$ miles using 0.75 gallons of gas.<br/>
+Explain your reasoning.
+]
+
+---
+
+# INDEPENDENT PROBLEM SOLVING
+
+1. $\frac{4}{5} \text{ buckets per hour}$
+
+
+--
+2. $\frac{5}{4} \text{ hours per bucket}$
+
+
+--
+3. $6 \text{ gallons of juice mix are used per gallon of fresh fruit juice}$
+
+
+--
+4. $15 \text{ miles per hour }$
+
+
+5. Store A: $\frac{1}{3}$ dollars per pound<br/>
+Store B: $\frac{2}{5}$ dollars per pound<br/>
+Store A is a better deal.
+
+---
+
+# INDEPENDENT PROBLEM SOLVING
+
+
+--
+6. 
+Blue Viper: $23$ miles per gallons of gas.<br/>
+Red Rocket: $23\frac{1}{5}$ miles per gallons of gas.<br/>
+The Red Rocket gets better gas mileage by $\frac{1}{5}$ mile per gallon.
+
+
+
+--

@@ -1,0 +1,294 @@
+# Proportional Relationships and Their Equations
+
+---
+# Objectives
+
+1. I can distinguish between proportional and nonproportional relationships.
+2. I can identify the constant of proportionality and write an equation for a proportional relationship. 
+
+---
+
+## Essential Questions
+
+### How do we write an equation of a proportional relationship?
+
+.center[$y = kx$]
+
+### What is $k$?
+
+The constant of proportionality $k$ is the unit rate (units of $y$ per unit of $x$). 
+
+.center[$k = \frac{y}{x}$]
+
+
+---
+
+# GUIDED PROBLEM SOLVING
+
+---
+
+GP1) The sailboat traveled a total of ½ mile in ¼ hour.
+
+
+--
+
+
+i) Write an equation that represents the relationship between the total miles traveled, $y$, in $x$ hours.
+
+ $y$ miles per $x$ hours
+
+
+--
+
+ $\frac{1}{2}$ mile per $\frac{1}{4}$ hour
+
+
+--
+$\downarrow \times 4 \hspace{2.5em} \downarrow \times 4$
+
+
+--
+ $2$ miles per $1$ hour
+
+
+--
+
+$k=2$
+
+
+--
+$y = 2x$
+
+--
+$\hspace{3em} k = \frac{y}{x}$
+
+--
+$= \frac{\frac{1}{2}}{\frac{1}{4}}$
+
+--
+$= \frac{1}{2} \div \frac{1}{4}$
+
+--
+$= \frac{1}{2} \cdot \frac{4}{1}$
+
+--
+$ = 2$
+
+
+
+
+---
+
+ii) Use the equation to determine how long it will take the boat to travel 1 mile.
+
+$y = 1 \text{ mile}$
+
+--
+
+$y = 2 x$
+
+
+--
+$1 = 2x$
+
+
+--
+$x=\frac{1}{2} \text{ hour}$
+
+---
+
+
+iii) Use a constant of proportionality (unit rate) to determine how long it will take the sailboat to travel 1 mile.
+
+
+ $\frac{1}{4}$ hour per $\frac{1}{2}$ mile
+
+
+--
+$\downarrow \times 2 \hspace{2.5em} \downarrow \times 2$
+
+
+--
+ $\frac{1}{2}$ hour per $1$ mile
+
+
+---
+
+GP2) Thelma drove 140 miles in 1 ¾ hours.  
+
+iv) Write an equation that represents the relationship between the total miles driven, $y$, in $x$ hours.
+
+ $\hspace{.25em}y$ miles per $x$ hours
+
+
+--
+
+ $140$ miles per $\frac{7}{4}$ hour
+
+
+--
+$\downarrow \times \frac{4}{7} \hspace{2.5em} \downarrow \times \frac{4}{7}$
+
+
+--
+ $80$ miles per $1$ hour
+
+
+--
+
+$k=80$
+
+
+--
+$y = 80x$
+
+--
+$\hspace{3em} k = \frac{y}{x}$
+
+--
+$= \frac{140}{\frac{7}{4}}$
+
+--
+$= 140 \div \frac{7}{4}$
+
+--
+$= 140 \cdot \frac{4}{7}$
+
+--
+$ = 80$
+
+
+
+
+
+---
+
+
+v) Use the equation to determine how long it will take Thelma to drive an additional 100 miles.
+
+$y = 100 \text{ mile}$
+
+--
+
+$y = 80 x$
+
+
+--
+$100 = 80x$
+
+
+--
+$x=\frac{100}{80} \text{ hours}$
+
+
+--
+$x=\frac{5}{4} \text{ hours}$
+
+
+---
+
+vi) Draw a double number line showing the miles driven for up to 5 hours.
+
+.medium[
+$\hspace{4em}$ <img src="22/double_number_line.png" width=800/>
+]
+
+
+---
+
+.medium[
+GP3) It took one scholar 30 minutes to read $\frac{2}{5}$ of the assignment.
+
+i) Write an equation that represents the relationship between the amount of the assignment read, $y$, in $x$ hours.
+]
+
+
+--
+
+ $y$ assignments per $x$ hours
+
+
+--
+
+ $\frac{2}{5}$ assignment per $\frac{1}{2}$ hour
+
+
+--
+$\downarrow \times 2 \hspace{5.25em} \downarrow \times 2$
+
+
+--
+ $\frac{4}{5}$ assignment per $1$ hour
+
+
+--
+
+$k=\frac{4}{5}$
+
+
+--
+$y = \frac{4}{5}x$
+
+--
+$\hspace{3em} k = \frac{y}{x}$
+
+--
+$= \frac{\frac{2}{5}}{\frac{1}{2}}$
+
+--
+$= \frac{2}{5} \div \frac{1}{2}$
+
+--
+$= \frac{2}{5} \cdot \frac{2}{1}$
+
+--
+$ = \frac{4}{5}$
+
+
+
+
+
+---
+
+
+ii) Use the equation to determine how long it will take the scholar to read the entire assignment.
+
+
+--
+$y = 1 \text{ assignment}$
+
+--
+
+$y = \frac{4}{5} x$
+
+
+--
+$1 = \frac{4}{5}x$
+
+
+--
+$x=\frac{5}{4} \text{ hour}$
+
+
+
+---
+
+
+iii) Use a constant of proportionality (unit rate) to determine how long it will take the scholar to complete the assignment. 
+
+
+ $\frac{1}{2}$ hour per $\frac{2}{5}$ assignment
+
+
+--
+$\downarrow \times \frac{5}{2} \hspace{2.25em} \downarrow \times \frac{5}{2}$
+
+
+--
+ $\frac{5}{4}$ hour per $1$ assignment
+
+
+---
+# INDEPENDENT PROBLEM SOLVING
+
+## Complete #1-12
