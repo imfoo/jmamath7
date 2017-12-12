@@ -145,6 +145,10 @@ Complete #1-3
 
 # How did we use multiplication in each of these problems to find the unit rate?
 
+--
+
+We multiplied by a number which gave us $1$ when it was multiplied by one of the two quantities.
+
 ---
 A **reciprocal** is one of two numbers whose product is 1.
 
@@ -184,10 +188,44 @@ $\frac{4}{5} \cdot \frac{5}{4} = \frac{20}{20} = 1$
 
 --
 ---
-# Example 1
 
+GP1) The old man walked $\frac{2}{3}$ of a mile in $\frac{1}{2}$ of an hour.  What is this rate in miles per hour?
+
+
+---
+
+GP1) The old man walked $\frac{2}{3}$ of a mile in $\frac{1}{2}$ of an hour.  What is this rate in miles per **1** hour?
+
+--
+
+.medium[
+$\hspace{4em}$ <img src="22/double_number_line.png" width=800/>
+]
+         
+
+--
+
+$\color{red}{\frac{2}{3}} \text{ mile}  \text{ per } \color{blue}{\frac{1}{2}} \text{ hour}$
+
+
+--
+$\color{red}{\downarrow} \times 2 \hspace{2.75em} \color{blue}{\downarrow} \times 2$
+
+
+--
+$\color{red}{\frac{4}{3}} \text{ mile}  \text{ per } \color{blue}{1} \text{ hour}$
+
+
+---
+**Example 1:** 
 Sarge completed $\frac{1}{10}$ of his report in $\frac{4}{5}$ of an hour.  At this rate, how much of the report will Sarge complete in 1 hour? 
 
+
+--
+
+.medium[
+$\hspace{4em}$ <img src="22/double_number_line.png" width=650/>
+]
 
 --
 $\hspace{0.25em} \frac{1}{10} \text{ of a report} \text{ per } \frac{4}{5} \text{ hours}$
@@ -212,27 +250,21 @@ $\hspace{0.25em} \frac{1}{8} \text{ of a report} \text{ per hour}$
 It took Captain $\frac{3}{4}$ of an hour to complete $\frac{1}{8}$ of the trip.  At this rate, how much of the trip will Captain complete per hour?
 
 
----
 
-GP1) The old man walked $\frac{2}{3}$ of a mile in $\frac{1}{2}$ of an hour.  What is this rate in miles per hour?
-
-
----
-
-GP1) The old man walked $\frac{2}{3}$ of a mile in $\frac{1}{2}$ of an hour.  What is this rate in miles per **1** hour?
+--
+$\hspace{0.25em} \frac{1}{8} \text{ of a trip} \text{ per } \frac{3}{4} \text{ hour}$
 
 
 --
-
-$\frac{2}{3} \text{ mile}  \text{ per } \frac{1}{2} \text{ hour}$
-
-
---
-$\downarrow \times 2 \hspace{2.75em} \downarrow \times 2$
+$\hspace{0.5em} \downarrow \times \frac{4}{3} \hspace{3.75em} \downarrow \times \frac{4}{3}$
 
 
 --
-$\frac{4}{3} \text{ mile}  \text{ per } 1 \text{ hour}$
+$\hspace{0.25em} \frac{4}{24} \text{ of a trip} \text{ per } 1 \text{ hour}$
+
+
+--
+$\hspace{0.25em} \frac{1}{6} \text{ of a trip} \text{ per hour}$
 
 
 ---
@@ -252,6 +284,10 @@ $\hspace{0.5em} \downarrow \times \frac{3}{2} \hspace{5.5em} \downarrow \times \
 --
 $\frac{15}{2} \text{ parts of blue} \text{ per } 1 \text{ part of white}$
 
+
+--
+$7\frac{1}{2} \text{ parts of blue} \text{ per } 1 \text{ part of white}$
+
 ---
 
 GP3) The baker used 3 ½ cups of pastry flour for every 1 ½ cups of wheat flour.  How much pastry flour is used per cup of wheat flour?
@@ -264,12 +300,17 @@ $\hspace{0.25em} \frac{7}{2} \text{ cups of pastry flour} \text{ per } \frac{3}{
 --
 $\hspace{0.25em} \downarrow \times \frac{2}{3} \hspace{8.75em} \downarrow \times \frac{2}{3}$
 
---
-$(\frac{3}{2} \cdot \frac{2}{3} = 1)$
-
 
 --
 $\frac{14}{6} \text{ cups of pastry flour} \text{ per } 1 \text{ cup of wheat flour}$
+
+
+--
+$\frac{7}{3} \text{ cups of pastry flour} \text{ per } 1 \text{ cup of wheat flour}$
+
+
+--
+$2\frac{1}{3} \text{ cups of pastry flour} \text{ per } 1 \text{ cup of wheat flour}$
 
 ---
 
@@ -282,9 +323,6 @@ $\hspace{0.25em} \frac{5}{2} \text{ miles} \text{ per } \frac{5}{4} \text{ hours
 
 --
 $\hspace{0.25em} \downarrow \times \frac{4}{5} \hspace{2.75em} \downarrow \times \frac{4}{5}$
-
---
-$(\frac{3}{2} \cdot \frac{2}{3} = 1)$
 
 
 --
@@ -300,6 +338,8 @@ $2 \text{ miles} \text{ per hour}$
 # INDEPENDENT PROBLEM SOLVING
 
 ## Complete #1-6
+When you finish, practice Unit Rates in TenMarks.
+$\color{green}{\text{Get ready to pass the Unit Rates Retake tomorrow!}}$
 
 
 <div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(20)">
@@ -311,7 +351,8 @@ $2 \text{ miles} \text{ per hour}$
 # INDEPENDENT PROBLEM SOLVING
 
 ## Complete #1-6
-
+When you finish, practice Unit Rates in TenMarks.
+$\color{green}{\text{Get ready to pass the Unit Rates Retake tomorrow!}}$
 
 <div class="timer" style="clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 5pt;" onclick="resetClock(15)">
     Time left: <span class="minutes" type="text">15</span> m <span class="seconds">00</span> s

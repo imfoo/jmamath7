@@ -32,11 +32,11 @@ Show all work on warm-up answer sheet.
 ]
 
 .clear[
-1. Long division!
-2. $(-21x + 52x) + (-12y-20y) + (37z-18z)$
-3. Here is a tree diagram for two coin flips. <img src="images/tree_diagram_two_coin_flips.gif.png"/>
-4. $V = l \times w \times h$
-5. If you get $3$ hours of exercise per $2$ days. How many hours of exercise do you get per day?
+1. Divide!
+2. Draw a number line. Break this distance down into two parts.
+3. First find how much his wage increased in dollars. Then find what this is as a percent of $\$12.00$.
+4. Sketch it!
+5. $c = \underline{\hspace{4em}}$ Fill in the blank with an expression that you can use to find the cost.
 ]
 
 ---
@@ -49,8 +49,39 @@ Show all work on warm-up answer sheet.
 </div>
 ]
 .clear[
-Long division
+$9 \frac{3}{8} \div 3 \frac{3}{4}$
 ]
+
+
+--
+$= \frac{75}{8} \div \frac{15}{4}$
+
+
+--
+$= \frac{75}{8} \cdot \frac{4}{15}$
+
+--
+$ \frac{\div}{\div}\frac{4}{4}$
+
+
+--
+$= \frac{75}{2} \cdot \frac{1}{15}$
+
+--
+$ \frac{\div}{\div}\frac{15}{15}$
+
+
+--
+$= \frac{5}{2} \cdot \frac{1}{1}$
+
+
+--
+$= \frac{5}{2}$
+
+
+--
+$= 2 \frac{1}{2}$
+
 
 
 ---
@@ -63,25 +94,12 @@ Long division
 </div>
 ]
 .clear[
-Combine like terms
+$37 + 86$
 ]
 
 
 --
-$-21x + 52x + (-12y) -20y + 37z-18z$
-
-
---
-$(-21x + 52x) + (-12y-20y) + (37z-18z)$
-
-
---
-$31x + (-32y) + 19z$
-
-
---
-$31x -32y + 19z$
-
+$123$
 ---
 .left-column[
 # Warm-up #3
@@ -92,86 +110,27 @@ $31x -32y + 19z$
 </div>
 ]
 .clear[
-
+$\$12.00$ to $\$15.00$ is an increase of $\$3.00$.
 ]
 .medium[
-$\begin{align}\text{Probability of an event} &= \frac{\text{Number of ways an event can happen}}{\text{Total number of possible outcomes}}\end{align}$
+Find what this is as a percent of $\$12.00$.
 ]
+
+
+$\frac{3}{12} = \frac{x}{100}$
+
+
+--
+$\frac{1}{4} = \frac{x}{100}$
 
 
 --
 
-.left-column[
-.medium[A tree diagram shows all of the outcomes of two coin flips:]
-<img src="images/tree_diagram_two_coin_flips.gif.png" height="250"/>
-]
-
---
-
-.right-column[
-.medium[
-How many ways can the event (getting tails twice in a row) happen?
-]
-]
-
---
-.right-column[
-$1$
-]
-
---
-.right-column[
-.medium[
-How many total outcomes are there?
-]
-]
-
---
-.right-column[
-$4$
-]
-
---
-.right-column[
-.medium[
-$\text{Probability of getting tails twice in a row} = \frac{1}{4}$.
-]
-]
-
----
-.left-column[
-# Warm-up #4
-]
-.right-column[
-<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
-    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
-</div>
-]
-.clear[
-$V = l \times w \times h$
-]
+$x = 25$
 
 
 --
-$l = 10 \text{ inches}$
-
-$w = 5 \text{ inches}$
-
-$h = 9 \text{ inches}$
-
-
---
-$V = 10 \cdot 5 \cdot 9$
-
-
---
-$ = 50 \cdot 9$
-
-
---
-$ = 450 \text{ inches}^3$
-
-
+$25\%$
 
 ---
 .left-column[
@@ -184,12 +143,20 @@ $ = 450 \text{ inches}^3$
 ]
 
 .clear[
-$3$ hours per $2$ days = 
+$c = \underline{\hspace{4em}}$
 ]
+
+The right hand side needs to give us the total cost, which includes the cost of the tickets and the cost of the snacks and drinks.
 
 --
 
-$\frac{3 \text{ hours}}{2 \text{ days}} = \frac{3}{2} \frac{\text{hours}}{\text{day}}$
+The cost of snacks and drinks was $\underline{\hspace{4em}}$
+
+--
+
+The cost of tickets was $\underline{\hspace{4em}}$
 
 
+--
 
+$c = \underline{\hspace{4em}}$
