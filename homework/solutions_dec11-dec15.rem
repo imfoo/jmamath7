@@ -1,0 +1,285 @@
+---
+.left-column[
+# Monday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+1\. $-8^2 + 3(4) - 4(2)$
+]
+
+
+--
+$=-64 + 3(4) - 4(2)$
+
+
+--
+$=-64 + 12 - 4(2)$
+
+
+--
+$=-64 + 12 - 8$
+
+
+--
+$=-52 - 8$
+
+
+--
+$=-60$
+
+---
+.left-column[
+# Monday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+2\. $(-4)^2 + (-8)^3 + 5(2)$
+]
+
+
+--
+$16 + (-8)^3 + 5(2)$
+
+
+--
+$16 + (-8)(-8)(-8) + 5(2)$
+
+
+--
+$16 + 64(-8) + 5(2)$
+
+
+--
+$16 + -512 + 5(2)$
+
+
+--
+$16 + -512 + 10$
+
+
+--
+$-496 + 10$
+
+
+--
+$-486$
+
+
+
+---
+.left-column[
+# Monday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+3\. $5(-4)^3$
+]
+
+
+--
+$=5(-4)^3$
+
+
+--
+$=5(-4)(-4)(-4)$
+
+
+--
+$=5(16)(-4)$
+
+
+--
+$=5(-64)$
+
+
+--
+$=-520$
+
+
+---
+
+.left-column[
+# Monday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+4\. $0.6 (-1.3) - (-0.12)$
+]
+
+
+--
+ $-0.78 - (-0.12)$
+
+
+--
+$=-0.78 +0.12$
+
+
+--
+$=-0.66$
+
+
+---
+
+.left-column[
+# Monday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+5\. $(-3)^2 + (-4)(-2)$ 
+]
+
+
+--
+$=(-3)^2 + (-4)(-2)$ 
+
+
+--
+$=9 + (-4)(-2)$ 
+
+
+--
+$=9 + 8$ 
+
+
+--
+$=17$ 
+
+
+
+---
+.left-column[
+# Tuesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+1\.
+Emily runs 1600 meters and 5 minutes 30 seconds and Megan runs 800 meters and 2 minutes 40 seconds.  Who has the faster average speed?
+
+
+--
+
+Which units should we use to compare the speeds?
+
+
+--
+meters per $\underline{\hspace{5em}}$
+
+
+--
+
+What is Emily's speed (unit rate):
+
+
+--
+What is Megan's speed: 
+]
+
+
+---
+.left-column[
+# Tuesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+2\. 
+A baseball player hit a ball at the speed of 8,000 feet per minute.  What was the speed of the ball in feet per hour?
+
+]
+
+--
+$\$8,000$ feet per minute is $\underline{\hspace{5em}}$ feet per hour.
+
+
+--
+There are $\underline{\hspace{2em}}$ minutes in $1$ hour.
+
+
+--
+feet | minutes
+-----| -------
+8000 | 1
+     | 60
+
+
+---
+.left-column[
+# Tuesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+3\.  Jacob uses $\frac{1}{7}$ of a liter of water to fill $\frac{1}{9}$ of the fish aquarium.  How many liters of water are needed to fill the aquarium?   
+]
+
+
+--
+
+liters      | aquariums
+------------| -------
+\frac{1}{7} | \frac{1}{9}
+            | 1
+
+
+
+---
+
+.left-column[
+# Tuesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+4\. 
+
+---
+
+.left-column[
+# Tuesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+5\. 
+]
+
+
+
+

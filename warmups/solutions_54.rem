@@ -32,16 +32,16 @@ Show all work on warm-up answer sheet.
 ]
 
 .clear[
-1. Long division!
-2. $(-21x + 52x) + (-12y-20y) + (37z-18z)$
-3. Here is a tree diagram for two coin flips. <img src="images/tree_diagram_two_coin_flips.gif.png"/>
-4. $V = l \times w \times h$
-5. If you get $3$ hours of exercise per $2$ days. How many hours of exercise do you get per day?
+1. Find common denominators.
+2. Get $x$ by itself!
+3. Do not multiply $77$ by $125$ first.
+4. Set up a proportion: $\frac{5}{100} = \frac{?}{?}$
+5. First find the lengths of the sides of the actual floor.
 ]
 
 ---
 .left-column[
-# Warm-up #1
+# Warm-up #1 (solution 1)
 ]
 .right-column[
 <div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
@@ -49,9 +49,48 @@ Show all work on warm-up answer sheet.
 </div>
 ]
 .clear[
-Long division
+$54 \frac{1}{3} - 9 \frac{3}{8}$
 ]
 
+
+--
+$= \frac{163}{3} - \frac{75}{8}$
+
+
+--
+$= \frac{1304}{24} - \frac{225}{24}$
+
+
+--
+$= \frac{1079}{24}$
+
+
+--
+$= 44 \frac{23}{24}$
+
+---
+.left-column[
+# Warm-up #1 (solution 2)
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$54 \frac{1}{3} - 9 \frac{3}{8}$
+]
+
+
+--
+$= 54 \frac{8}{24} - 9 \frac{9}{24}$
+
+
+--
+$= 53 \frac{32}{24} - 9 \frac{9}{24}$
+
+--
+$= 44 \frac{23}{24}$
 
 ---
 .left-column[
@@ -63,24 +102,31 @@ Long division
 </div>
 ]
 .clear[
-Combine like terms
+$8x-7 \ge 81$
 ]
 
-
---
-$-21x + 52x + (-12y) -20y + 37z-18z$
+Get $x$ by itself.
 
 
 --
-$(-21x + 52x) + (-12y-20y) + (37z-18z)$
+$8x-7 \ge 81$
 
 
 --
-$31x + (-32y) + 19z$
+$\hspace{1.5em}+7 \hspace{0.5em}+7$
 
 
 --
-$31x -32y + 19z$
+$8x \ge 88$
+
+
+--
+$\frac{8x}{8} \ge \frac{88}{8}$
+
+
+--
+$x \ge 11$
+
 
 ---
 .left-column[
@@ -92,51 +138,21 @@ $31x -32y + 19z$
 </div>
 ]
 .clear[
+The associative property says $(a \cdot b)\cdot c = a\cdot(b \cdot c)$
+]
 
-]
-.medium[
-$\begin{align}\text{Probability of an event} &= \frac{\text{Number of ways an event can happen}}{\text{Total number of possible outcomes}}\end{align}$
-]
+$(77 \cdot 125) \cdot 8$
+
+--
+$=77 \cdot (125 \cdot 8)$
 
 
 --
+$=77 \cdot (125 \cdot 8)$
 
-.left-column[
-.medium[A tree diagram shows all of the outcomes of two coin flips:]
-<img src="images/tree_diagram_two_coin_flips.gif.png" height="250"/>
-]
 
 --
-
-.right-column[
-.medium[
-How many ways can the event (getting tails twice in a row) happen?
-]
-]
-
---
-.right-column[
-$1$
-]
-
---
-.right-column[
-.medium[
-How many total outcomes are there?
-]
-]
-
---
-.right-column[
-$4$
-]
-
---
-.right-column[
-.medium[
-$\text{Probability of getting tails twice in a row} = \frac{1}{4}$.
-]
-]
+$=77 \cdot \hspace{3em}$
 
 ---
 .left-column[
@@ -147,31 +163,17 @@ $\text{Probability of getting tails twice in a row} = \frac{1}{4}$.
     Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
 </div>
 ]
-.clear[
-$V = l \times w \times h$
+.medium[
+$5\% \times \$1300$
 ]
 
 
 --
-$l = 10 \text{ inches}$
-
-$w = 5 \text{ inches}$
-
-$h = 9 \text{ inches}$
+$0.05 \times \$1300$
 
 
 --
-$V = 10 \cdot 5 \cdot 9$
-
-
---
-$ = 50 \cdot 9$
-
-
---
-$ = 450 \text{ inches}^3$
-
-
+$ \$65$
 
 ---
 .left-column[
@@ -184,12 +186,19 @@ $ = 450 \text{ inches}^3$
 ]
 
 .clear[
-$3$ hours per $2$ days = 
 ]
+
+The dimensions of the actual floor are $\underline{\hspace{5em}}$.
+
+
+--
+$ 6 \text{ in } \rightarrow \underline{\hspace{3em}}$
+
+$ 13 \text{ in } \rightarrow \underline{\hspace{3em}}$
+
 
 --
 
-$\frac{3 \text{ hours}}{2 \text{ days}} = \frac{3}{2} \frac{\text{hours}}{\text{day}}$
-
+The area of the actual floor is $\underline{\hspace{5em}}$.
 
 
