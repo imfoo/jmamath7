@@ -177,12 +177,11 @@ $=17$
 </div>
 ]
 .clear[
-1\.
-Emily runs 1600 meters and 5 minutes 30 seconds and Megan runs 800 meters and 2 minutes 40 seconds.  Who has the faster average speed?
+1\.  Emily runs 1600 meters and 5 minutes 30 seconds and Megan runs 800 meters and 2 minutes 40 seconds.  Who has the faster average speed?
+]
 
 
 --
-
 Which units should we use to compare the speeds?
 
 
@@ -191,13 +190,11 @@ meters per $\underline{\hspace{5em}}$
 
 
 --
-
 What is Emily's speed (unit rate):
 
 
 --
 What is Megan's speed: 
-]
 
 
 ---
@@ -246,10 +243,10 @@ feet | minutes
 
 --
 
-liters      | aquariums
-------------| -------
-\frac{1}{7} | \frac{1}{9}
-            | 1
+liters        | aquariums
+--------------| -------
+$\frac{1}{7}$ | $\frac{1}{9}$
+              | 1
 
 
 
@@ -265,6 +262,7 @@ liters      | aquariums
 ]
 .clear[
 4\. 
+]
 
 ---
 
@@ -280,6 +278,392 @@ liters      | aquariums
 5\. 
 ]
 
+
+
+
+---
+.left-column[
+# Wednesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+Which set of ordered pairs is not proportional?  How do you know?  
+]
+
+a) (0,0), (2,6), (4, 12), (6, 18)
+
+b) (0, 4), (2, 10), (4, 16), (6, 22)
+
+
+--
+.left-column[
+a) $\frac{6}{2} = 3$
+
+$\frac{12}{4} = 3$
+
+$\frac{18}{6} = 3$
+]
+
+
+--
+.right-column[
+b) $\frac{10}{2} = 5$
+
+$\frac{16}{4} = 4$
+
+$\frac{22}{6} = \frac{11}{3}$ 
+$=3 \frac{2}{3}$
+]
+
+
+---
+.left-column[
+# Wednesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+2\. 
+$\frac{2 \cdot 6 - (4+2)}{(-2-4-6) \div (2-1)}$
+]
+
+
+--
+$\frac{2 \cdot 6 - 6}{(-2-4-6) \div (2-1)}$
+
+
+--
+$\frac{12 - 6}{(-2-4-6) \div (2-1)}$
+
+
+--
+$\frac{6}{(-2-4-6) \div (2-1)}$
+
+
+--
+$\frac{6}{(-6-6)  \div (2-1)}$
+
+
+--
+$\frac{6}{-12  \div (2-1)}$
+
+
+---
+
+$\frac{6}{-12  \div (2-1)}$
+
+
+--
+$\frac{6}{-12  \div 1}$
+
+
+--
+$\frac{6}{-12}$
+
+--
+$\frac{\div}{\div}\frac{6}{6}$
+
+
+--
+$\frac{1}{-2}$
+
+
+--
+$-\frac{1}{2}$
+
+---
+.left-column[
+# Wednesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+3\. $\frac{3 \cdot 2 + 6 + 2 \cdot 3 + 6}{3^2+2^2+1^2}$
+]
+
+
+--
+$\frac{6 + 6 + 6 + 6}{3^2+2^2+1^2}$
+
+
+--
+$\frac{24}{3^2+2^2+1^2}$
+
+
+--
+$\frac{24}{9+4+1}$
+
+
+--
+$\frac{24}{14}$
+
+--
+$\frac{\div}{\div}\frac{2}{2}$
+
+
+--
+$\frac{12}{7}$
+
+---
+
+.left-column[
+# Wednesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+4\. $6 \frac{2}{5} \div 5 \frac{1}{3}$
+]
+
+
+--
+$\frac{32}{5} \div \frac{16}{3}$
+
+
+--
+$\frac{32}{5} \cdot \frac{3}{16}$
+
+--
+$\frac{\div}{\div}\frac{16}{16}$
+
+
+--
+$\frac{2}{5}\frac{3}{1}$
+
+
+--
+$\frac{6}{5}$
+
+---
+
+.left-column[
+# Wednesday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+5\. Ethan made $2 \frac{1}{2}$ quarts of soup.  He served $\frac{1}{2}$ of the soup to his family for dinner.  How much soup was left over?  
+]
+
+
+--
+$\frac{1}{2}$ of $2 \frac{1}{2}$ quarts is
+
+
+--
+$\frac{1}{2} \cdot 2 \frac{1}{2}$
+
+
+--
+$\frac{1}{2} \cdot \frac{5}{2}$
+
+
+--
+$= \frac{5}{4}$ quarts
+
+
+--
+$1 \frac{1}{4}$ quarts.
+
+
+
+---
+.left-column[
+# Thursday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+1\.
+Leslie is cutting wood to make picture frames.  How many pieces of wood that are $10 \frac{3}{4}$ inches long can she cut from a board that is $75 \frac{1}{4}$ inches long?
+]
+
+
+--
+
+$75 \frac{1}{4} \div 10 \frac{3}{4}$
+
+--
+
+$\frac{301}{4} \div \frac{43}{4}$
+
+--
+
+$\frac{301}{4} \cdot \frac{4}{43}$
+
+--
+$\frac{\div}{\div}\frac{4}{4}$
+
+
+--
+$\frac{301}{1} \cdot \frac{1}{43}$
+
+--
+$=\frac{301}{43}$
+
+--
+$=7$
+
+
+---
+.left-column[
+# Thursday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+2\. The regular price of a basket of geraniums is $\$16.95$.  They are on sale for $\frac{1}{3}$ off the regular price.  How much will you save if you buy the geraniums on sale? 
+
+]
+
+The discount is
+
+$\frac{1}{3}$ of $\$16.95$
+
+
+--
+$= \frac{1}{3} \cdot 16.95$
+
+
+--
+$= \frac{16.95}{3}$
+
+
+--
+$= 5.65.$
+
+--
+You will save $\$5.65$.
+
+---
+.left-column[
+# Thursday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+3\.    Jack spent $\frac{1}{3}$ of the money on a movie and $\frac{1}{6}$ on snacks.  What fraction of his money is left? 
+]
+
+
+--
+$1$
+
+--
+$-\frac{1}{3}$
+
+--
+$ - \frac{1}{6}$
+
+
+--
+$= \frac{3}{3} - \frac{1}{3} - \frac{1}{6}$
+
+
+--
+$= \frac{2}{3} - \frac{1}{6}$
+
+
+--
+$= \frac{4}{6} - \frac{1}{6}$
+
+
+--
+$= \frac{3}{6}$
+
+--
+$= \frac{1}{2}$
+
+---
+
+.left-column[
+# Thursday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+4\. Ryan ran a total of $15$ miles last month.  He ran $\frac{3}{8}$ mile each day.  How many days did he run? 
+]
+
+$15 \div \frac{3}{8}$
+
+
+--
+$= 15 \cdot \frac{8}{3}$
+
+
+--
+$= \frac{15}{3} \cdot 8$
+
+
+--
+$= 5 \cdot 8$
+
+
+--
+$= 40$
+
+---
+
+.left-column[
+# Thursday
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+5\. $(5^3 - 100)^2 \div 5^2$
+]
+
+
+--
+$= (125 - 100)^2 \div 5^2$
+
+
+--
+$= (25)^2 \div 5^2$
+
+
+--
+$= (25)^2 \div 25$
+
+
+--
+$= 25 \cdot 25 \div 25$
+
+
+--
+$= 25$
 
 
 

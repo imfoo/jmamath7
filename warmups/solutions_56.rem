@@ -32,11 +32,15 @@ Show all work on warm-up answer sheet.
 ]
 
 .clear[
-1. Long division!
-2. $(-21x + 52x) + (-12y-20y) + (37z-18z)$
-3. Here is a tree diagram for two coin flips. <img src="images/tree_diagram_two_coin_flips.gif.png"/>
-4. $V = l \times w \times h$
-5. If you get $3$ hours of exercise per $2$ days. How many hours of exercise do you get per day?
+1. Remember the rules for dividing integers! Also, follow the order of operations.
+2. Get $x$ by itself.
+3. How can we set this up as a proportion?
+4.  .medium[
+$\begin{align}\text{Probability of selecting a vowel} &= \frac{\text{Number of ways to select a vowel}}{\text{Total number of possible outcomes}}\end{align}$
+]
+Unlikely - Probability is less than $50\%$<br/>
+Likely - Probability is more than $50\%$
+5. The sum of two adjacent angles is $180^\circ$.
 ]
 
 ---
@@ -49,8 +53,16 @@ Show all work on warm-up answer sheet.
 </div>
 ]
 .clear[
-Long division
+$-96 \div (-4) \div 2$
 ]
+
+
+--
+$=24  \div 2$
+
+
+--
+$=12$
 
 
 ---
@@ -63,24 +75,16 @@ Long division
 </div>
 ]
 .clear[
-Combine like terms
+$6x-3 \le 75$
 ]
 
 
 --
-$-21x + 52x + (-12y) -20y + 37z-18z$
+$6x \le 78$
 
 
 --
-$(-21x + 52x) + (-12y-20y) + (37z-18z)$
-
-
---
-$31x + (-32y) + 19z$
-
-
---
-$31x -32y + 19z$
+$x \le 13$
 
 ---
 .left-column[
@@ -92,51 +96,17 @@ $31x -32y + 19z$
 </div>
 ]
 .clear[
-
-]
-.medium[
-$\begin{align}\text{Probability of an event} &= \frac{\text{Number of ways an event can happen}}{\text{Total number of possible outcomes}}\end{align}$
+$\$25$ is what percent of $\$200$?
 ]
 
 
 --
+$\frac{25}{200} = \frac{x}{100}$
 
-.left-column[
-.medium[A tree diagram shows all of the outcomes of two coin flips:]
-<img src="images/tree_diagram_two_coin_flips.gif.png" height="250"/>
-]
 
 --
+$x = 12.5$
 
-.right-column[
-.medium[
-How many ways can the event (getting tails twice in a row) happen?
-]
-]
-
---
-.right-column[
-$1$
-]
-
---
-.right-column[
-.medium[
-How many total outcomes are there?
-]
-]
-
---
-.right-column[
-$4$
-]
-
---
-.right-column[
-.medium[
-$\text{Probability of getting tails twice in a row} = \frac{1}{4}$.
-]
-]
 
 ---
 .left-column[
@@ -148,28 +118,25 @@ $\text{Probability of getting tails twice in a row} = \frac{1}{4}$.
 </div>
 ]
 .clear[
-$V = l \times w \times h$
+.medium[
+$\begin{align}\text{Probability of selecting a vowel} &= \frac{\text{Number of ways to select a vowel}}{\text{Total number of possible outcomes}}\end{align}$
+]
 ]
 
 
 --
-$l = 10 \text{ inches}$
+$\hspace{11em} = \frac{3}{6}$
 
-$w = 5 \text{ inches}$
-
-$h = 9 \text{ inches}$
 
 
 --
-$V = 10 \cdot 5 \cdot 9$
+$\hspace{11em} =\frac{1}{2}$
 
 
 --
-$ = 50 \cdot 9$
-
-
---
-$ = 450 \text{ inches}^3$
+Unlikely - Probability is less than $50\%$<br/>
+Likely - Probability is more than $50\%$<br/>
+Neither
 
 
 
@@ -184,12 +151,8 @@ $ = 450 \text{ inches}^3$
 ]
 
 .clear[
-$3$ hours per $2$ days = 
+The sum of two adjacent angles is $180^\circ$.
 ]
-
---
-
-$\frac{3 \text{ hours}}{2 \text{ days}} = \frac{3}{2} \frac{\text{hours}}{\text{day}}$
 
 
 
