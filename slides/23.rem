@@ -114,7 +114,7 @@ $\downarrow \times 2 \hspace{2.5em} \downarrow \times 2$
 
 ---
 
-GP2) The distances that Thelma drove are recorded in the table below.
+.medium[GP2) The distances that Thelma drove are recorded in the table below.]
 
 .small[
 hours | miles
@@ -124,31 +124,31 @@ hours | miles
 4        | 320
 ]
 
-iv) Write an equation that represents the relationship between the total miles driven, $d$, in $t$ hours.
+.medium[iv) Write an equation that represents the relationship between the total miles driven, $d$, in $t$ hours.
 
  $\hspace{.25em}d$ miles per $t$ hours
+]
+
+--
+
+ .medium[$160$ miles per $2$ hours]
+
+
+--
+.medium[$\downarrow \div 2 \hspace{2.5em} \downarrow \div 2$]
+
+
+--
+ .medium[$80$ miles per $1$ hour]
 
 
 --
 
- $160$ miles per $2$ hours
+.medium[$k=80$]
 
 
 --
-$\downarrow \div 2 \hspace{2.5em} \downarrow \div 2$
-
-
---
- $80$ miles per $1$ hour
-
-
---
-
-$k=80$
-
-
---
-$y = 80x$
+.medium[$d = 80t$]
 
 --
 $\hspace{3em} k = \frac{y}{x}$
