@@ -20,3 +20,170 @@ Show all work on warm-up answer sheet.
 
 ---
 
+.left-column[
+# Warm-up hints
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+1. What did we learn about dividing by zero?
+2. How many numbers between $1$ and $6$ are prime? 
+3. Percent error $= \frac{| \text{actual } - \text{ estimated} |}{ actual }$ 
+4. 
+.medium[
+drawing (cm) | actual (m)
+-----|-----
+1    | 12
+5.25 | ?
+]
+5. $500 + \underline{\hspace{3em}} > 850$
+]
+
+---
+.left-column[
+# Warm-up #1
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$(4^3+25-2^4) \div 0$
+]
+
+
+--
+$(64 + 25 - 16) \div 0$
+
+
+--
+$73 \div 0$
+
+
+--
+undefined
+
+
+--
+Any number divided by zero is undefined.
+
+---
+.left-column[
+# Warm-up #2
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+]
+Prime numbers between $1$ and $6$:
+
+--
+2,
+
+--
+3,
+
+--
+5.
+
+
+--
+
+.medium[
+$\begin{align}\text{Probability of rolling a prime number} &= \frac{\text{Number of ways to roll a prime number}}{\text{Total number of possible outcomes}}\end{align}$
+]
+
+
+--
+$\hspace{12em} = \frac{3}{6}$
+
+
+--
+$\hspace{12em} =\frac{1}{2}$
+
+
+---
+.left-column[
+# Warm-up #3
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+Percent error $= \frac{| \text{actual } - \text{ estimated} |}{ actual }$ 
+]
+
+
+--
+$\frac{|54 - 50|}{54}$
+
+
+--
+$=\frac{|4|}{54}$
+
+
+--
+$=\frac{4}{54}$
+
+
+--
+$\approx 0.740$
+
+
+---
+.left-column[
+# Warm-up #4
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+.clear[
+$5.25 \cdot 12 = 63$
+]
+
+
+--
+$63$ meters
+
+---
+.left-column[
+# Warm-up #5
+]
+.right-column[
+<div class="timer" style="width: 50%; clear: both; text-align: center; background-color: #cccccc; text-color: #ffffff; padding: 0pt; margin: 15pt;" onclick="resetClock(7)">
+    Timer: <span class="minutes" type="text">7</span> m <span class="seconds">00</span> s
+</div>
+]
+
+.clear[
+Let $m$ be the number of months that Tess saves.
+]
+
+
+--
+$500 + \underline{\hspace{3em}} > 850$
+
+
+--
+$500 + 50m > 850$
+
+
+--
+$50m > 350$
+
+
+--
+$m > 7$
+
