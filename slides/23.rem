@@ -114,45 +114,52 @@ $\downarrow \times 2 \hspace{2.5em} \downarrow \times 2$
 
 ---
 
-GP2) Thelma drove 140 miles in 1 ¾ hours.  
+.medium[GP2) The distances that Thelma drove are recorded in the table below.]
 
-iv) Write an equation that represents the relationship between the total miles driven, $y$, in $x$ hours.
+.small[
+hours | miles
+---------|----------
+2        | 160
+3        | 240
+4        | 320
+]
 
- $\hspace{.25em}y$ miles per $x$ hours
+
+--
+.medium[iv) Write an equation that represents the relationship between the total miles driven, $d$, in $t$ hours.
+
+ $\hspace{.25em}d$ miles per $t$ hours
+]
+
+--
+
+ .medium[$160$ miles per $2$ hours]
+
+
+--
+.medium[$\downarrow \div 2 \hspace{2.5em} \downarrow \div 2$]
+
+
+--
+ .medium[$80$ miles per $1$ hour]
 
 
 --
 
- $140$ miles per $\frac{7}{4}$ hour
+.medium[$k=80$]
 
 
 --
-$\downarrow \times \frac{4}{7} \hspace{2.5em} \downarrow \times \frac{4}{7}$
-
-
---
- $80$ miles per $1$ hour
-
-
---
-
-$k=80$
-
-
---
-$y = 80x$
+.medium[$d = 80t$]
 
 --
 $\hspace{3em} k = \frac{y}{x}$
 
 --
-$= \frac{140}{\frac{7}{4}}$
+$= \frac{160}{2}$
 
 --
-$= 140 \div \frac{7}{4}$
-
---
-$= 140 \cdot \frac{4}{7}$
+$= 160 \div 2$
 
 --
 $ = 80$
