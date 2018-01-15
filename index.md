@@ -10,7 +10,7 @@ A pdf copy of the Interim #2 study guide is available [here](doc/unit2/interim2s
 
 **Correction:** The passcode that Mr. Howard gave to access the Interim #2 study guide is no longer active. The updated access code is **LA2PU9M**. The study guide can be accessed through SchoolNet using this code.
 
-## January 11, 2018
+## January 11, 2018 - Interim #2
 
 Interim #2 will begin on Tuesday January 16, in math class. The study guide for the test is now online. All scholars who complete the study guide and submit loose-leaf paper showing all of their work will receive additional points on their test. Scholars can complete the study guide for Interim #2 using SchoolNet with the access code **LA2PU9M**.
 
