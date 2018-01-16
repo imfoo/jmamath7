@@ -60,6 +60,10 @@
  * [58](7thGradeMathWarmUp058.pdf) 
  * [59](7thGradeMathWarmUp059.pdf) 
  * [60](7thGradeMathWarmUp060.pdf) 
+ 
+ Warmups 61 and later can be accessed through Canvas.
+ 
+ <!--
  * [61](7thGradeMathWarmUp061.pdf) 
  * [62](7thGradeMathWarmUp062.pdf) 
  * [63](7thGradeMathWarmUp063.pdf) 
@@ -120,3 +124,4 @@
  * [118](7thGradeMathWarmUp118.pdf) 
  * [119](7thGradeMathWarmUp119.pdf) 
  * [120](7thGradeMathWarmUp120.pdf) 
+-->
