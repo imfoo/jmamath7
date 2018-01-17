@@ -9,3 +9,6 @@
 
  * Planning
    - Post-assessment for Unit 3
+
+ * Development
+   - Add post-commit hook to WeBWorK
