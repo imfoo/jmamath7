@@ -5,7 +5,7 @@
 [Homework]: /homework/index.md
 [Projects]: /projects/index.md
 [Warm-ups]: /warmups/index.md
-[Classwork]: /notes/index.md
+[Classwork]: /classwork/index.md
 [Google Classroom]: http://classroom.google.com
 [Other Resources]: /links.md
 [Contact]: /contact.md
