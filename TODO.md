@@ -16,6 +16,7 @@
 
  * Development
    - Create WeBWorK problems for 7.EE.2, 7.EE.3, and 7.EE.4
+   - Create WeBWorK problems utilizing GeoGebra circumference applet https://www.geogebra.org/m/zGWgtBxe
 
  * Other
    - Complete midyear PDP
