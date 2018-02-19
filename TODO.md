@@ -1,12 +1,10 @@
  * Grades
-   - Nhi Ho
-   - 2A
    - Sydney
    - Donnell
    - Late homeworks
    - Assignments that affect the lowest homework grades
-   - Respond to Arianna re: 
    - Record grades from Edgenuity Relearn and Retake assignments
+   - Record bonus from unit 2 study guide and practice
 
  * Planning
    - Post-assessment for Unit 3
