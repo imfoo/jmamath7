@@ -59,11 +59,7 @@
  * [57](7thGradeMathWarmUp057.pdf) 
  * [58](7thGradeMathWarmUp058.pdf) 
  * [59](7thGradeMathWarmUp059.pdf) 
- * [60](7thGradeMathWarmUp060.pdf) (Warmup 60 is problems 1-6 from the handout)
- 
- Warmups 61 and later can be accessed through Canvas.
- 
- <!--
+ * [60](7thGradeMathWarmUp060.pdf)
  * [61](7thGradeMathWarmUp061.pdf) 
  * [62](7thGradeMathWarmUp062.pdf) 
  * [63](7thGradeMathWarmUp063.pdf) 
@@ -85,6 +81,7 @@
  * [79](7thGradeMathWarmUp079.pdf) 
  * [80](7thGradeMathWarmUp080.pdf) 
  * [81](7thGradeMathWarmUp081.pdf) 
+ <!--
  * [82](7thGradeMathWarmUp082.pdf) 
  * [83](7thGradeMathWarmUp083.pdf) 
  * [84](7thGradeMathWarmUp084.pdf) 
