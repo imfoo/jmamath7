@@ -1,0 +1,304 @@
+# Opening Exercises
+
+Find the following opposites:
+
+1. $-(3x+2) = \underline{\hspace{5cm}}$
+2. $-(x-4) = \underline{\hspace{5cm}}$
+3. $-[-5x+(-1)] = \underline{\hspace{5cm}}$
+
+
+*Answers are on the last slide of this presentation.*
+
+---
+
+**Key ideas for adding and subtracting expressions**
+
+1. The opposite of a sum is the sum of the opposites. For example the opposite of $\color{blue}{3x+4}$ is $\color{red}{-3x+(-4)}$.
+
+2. We can rewrite subtraction as adding the opposite (additive inverse). For example, subtracting $\color{blue}{3x+4}$ is equivalent to adding $\color{red}{-3x+(-4)}$ (*example on next slide*).
+
+3. Once all operations are addition, we can freely reorder and regroup the terms, or even remove the grouping symbols altogether. For example, $3+(4+5) = 3+4+5$.
+
+4. We can then combine like terms.
+
+
+---
+
+**Example 1**
+
+The opposite of $\color{blue}{3x+4}$ is $\color{red}{-3x+(-4)}$. $\color{green}{\text{Subtracting}}$ $\color{blue}{3x+4}$ is equivalent to adding $\color{red}{-3x+(-4)}$. For example,
+
+$(5x+8)\color{green}{\mathbf{-}}\color{blue}{(3x+4)}$
+
+
+--
+$=(5x+8)+\color{red}{(-3x+(-4))}$
+
+
+--
+$=5x+8+(-3x)+(-4)$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$=2x+4$
+.small[Combine like terms]
+
+
+---
+# Answer key
+
+<img src="ak1.png" height="480"/>
+
+
+---
+
+<img src="ak2.png" height="480"/>
+
+---
+
+
+# Solutions
+
+1.
+$(3x+5)+(5x-2)$
+
+
+--
+$= (3x+5)+[5x+(-2)]$ .small[Rewrite subtraction of 2 as addition of its additive inverse (-2)]
+
+
+--
+$= 3x+5+5x+(-2)$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$= 8x+3$
+.small[Combine like terms]
+
+
+---
+
+2.
+$(6x^2+5) + (-5x^2 + 3)$
+
+
+--
+$= 6x^2+5 + -5x^2 + 3$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$= 1x^2+8$
+.small[Combine like terms]
+
+
+--
+$= x^2+8$
+.small[The coefficient $1$ may be omitted]
+
+
+---
+
+3.
+$(6x+6)+(-3-4x)$
+
+
+--
+$= (6x+6)+[-3+(-4x)]$ .small[Rewrite subtraction as addition using the additive inverse]
+
+
+--
+$= 6x+6+(-3)+(-4x)$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$= 2x+3$
+.small[Combine like terms]
+
+
+---
+
+4.
+$(4x-6)-(-4-8x)$
+
+
+--
+$=(4x-6)+(4+8x)$
+.small[Rewrite subtraction of $(-4-8x)$, as addition of its opposite $(4+8x)$]
+
+
+--
+$=[4x+(-6)]+(4+8x)$
+.small[Again, rewrite subtraction as addition using the additive inverse]
+
+
+--
+$=4x+(-6)+4+8x$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$=12x+(-2)$
+.small[Combine like terms]
+
+
+--
+$=12x-2$
+
+
+---
+
+5.
+$(6p+4)+(-5p+8)$
+
+
+--
+$=6p+4+(-5p)+8$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$=1p+12$
+.small[Combine like terms]
+
+
+--
+$=p+12$
+.small[The coefficient $1$ may be omitted]
+
+
+---
+
+6.
+$(-1-3n)+(6+2n)$
+
+
+--
+$[-1+(-3n)]+(6+2n)$
+.small[Rewrite subtraction as addition using the additive inverse]
+
+
+--
+$=-1+(-3n)+6+2n$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$=-1n+5$
+.small[Combine like terms]
+
+
+--
+$=-n+5$
+
+
+---
+7.
+$(-8r+8)+(-7-7r)$
+
+
+--
+$=(-8r+8)+[-7+(-7r)]$
+.small[Rewrite subtraction as addition using the additive inverse]
+
+
+--
+$=-8r+8+(-7)+(-7r)$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$=-15r+1$
+.small[Combine like terms]
+
+
+
+---
+8.
+$(8r-6)+(-2r-7)$
+
+
+--
+$=[8r+(-6)]+[-2r+(-7)]$
+.small[Rewrite subtraction as addition using the additive inverse]
+
+
+--
+$=8r+(-6)+-2r+(-7)$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$=6r+(-13)$
+.small[Combine like terms]
+
+
+--
+$=6r-13$
+
+
+---
+9.
+$(1-6x)+(7x+3)$
+
+
+--
+$=[1+(-6x)]+(7x+3)$
+.small[Rewrite subtraction as addition using the additive inverse]
+
+
+--
+$=1+(-6x)+7x+3$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$=1x+4$
+.small[Combine like terms]
+
+
+--
+$=x+4$
+.small[$1x=x$]
+
+
+---
+10.
+$(-4x+4)-(8x+7)$
+
+
+--
+$=(-4x+4)+[-(8x+7)]$
+.small[Rewrite subtraction as addition using the additive inverse]
+
+
+--
+$=(-4x+4)+[-8x+(-7)]$
+.small[The opposite (additive inverse) of $(8x+7)$ is $-8x+(-7)$]
+
+
+--
+$=-4x+4+-8x+(-7)$
+.small[All of the operations are addition, so the grouping does not matter]
+
+
+--
+$=-12x+(-3)$
+.small[Combine like terms]
+
+
+--
+$=-12x-3$
+
+---
+# Answers to Opening Exercises
+
+Find the following opposites:
+
+1. $-(3x+2) = -3x-2$
+2. $-(x-4) = -x+4$
+3. $-[-5x+(-1)] = 5x+1$
+
