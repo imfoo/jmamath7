@@ -1,0 +1,96 @@
+  DOCUMENT();
+  loadMacros(
+    "PGstandard.pl",
+#    "PGML.pl",
+    "MathObjects.pl",
+    "PGcourse.pl",
+#    "parserNumberWithUnits.pl",
+#    "contextArbitraryString.pl",
+#    "parserMultiAnswer.pl",
+    "parserPopUp.pl",
+    "contextInequalities.pl",
+    "contextPercent.pl",
+    "contextFraction.pl",
+    "PGgraphmacros.pl",
+    "parserImplicitEquation.pl",
+#    "niceTables.pl",
+"PGessaymacros.pl",
+"PGchoicemacros.pl",
+"PGgraders.pl",
+"unionTables.pl",
+#"PGanswermacros.pl",
+#"PGbasicmacros.pl",
+#"PG.pl",
+  );
+  TEXT(beginproblem());
+
+Context("LimitedFraction");
+$ans1 = Compute('ANS1');
+$ans2 = Compute('ANS2');
+$ans3 = Compute('ANS3');
+#$ans3 = PopUp( [ "?", "Yes", "No" ], "Yes" );
+$ans4 = Compute('ANS4');
+#$ans4 = PopUp( [ "?", "Likely", "Unlikely", "Neither" ], "Unlikely" );
+$ans5 = Compute('ANS5');
+
+  ######################################################################
+#Context()->texStrings;
+
+#Context()->texStrings;
+BEGIN_TEXT
+
+$BR
+\{
+BeginTable(border=>0, tex_border=>"0pt", spacing=>0, padding=>4).
+AlignedRow([
+ image( "warmupWARMUPNO.png", width=>425, height=>550 ),
+"
+$BR
+1.".  ans_rule(25) ."
+
+$BR
+2.". ans_rule(25) ."
+
+$BR
+3.". 
+ans_rule(25)
+#$ans3->menu()
+ ."
+
+$BR
+4.".
+ans_rule(25)
+#$ans4->menu()
+ ."
+
+$BR
+5.". ans_rule(25) .""
+],
+align=>LEFT
+).
+EndTable()
+\}
+
+END_TEXT
+ANS($ans1->cmp());
+#ANS(num_cmp($ans1, 'units'=>'in'));
+ANS($ans2->cmp());
+#ANS(num_cmp($ans2, 'units'=>'mi/hr'));
+ANS($ans3->cmp());
+#ANS(num_cmp($ans3, 'units'=>'mi'));
+ANS($ans4->cmp());
+#ANS(num_cmp($ans4, 'units'=>'ft'));
+ANS($ans5->cmp());
+#ANS(num_cmp($ans5, 'units'=>'in'));
+
+#install_problem_grader(~~&custom_problem_grader_fluid);
+#$ENV{'grader_numright'} = [1,2,3,4,5];
+#$ENV{'grader_scores'} = [0.2,0.4,0.6,0.8,1];
+#$ENV{'grader_message'} = "You can earn " .
+#"30% partial credit for 2 - 3 correct answers, and " .
+#"60% partial credit for 4 correct answers.";
+
+
+  ######################################################################
+
+  ENDDOCUMENT();
