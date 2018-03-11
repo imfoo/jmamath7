@@ -1,8 +1,8 @@
 #!/bin/bash
-for n in $(seq 80 84); do
+for n in $(seq 83 87); do
     warmupno=`printf "%03d" $n`
     mkdir ~/git/wwjmamath7/warmup${warmupno}
-    cp future/7thGradeMathWarmUp${warmupno}.png ~/git/wwjmamath7/warmup${warmupno}/warmup${warmupno}.png
+    cp 7thGradeMathWarmUp${warmupno}.png ~/git/wwjmamath7/warmup${warmupno}/warmup${warmupno}.png
 #    cat future/answers/${n}.md
     for (( i=1; i<=5; i++ )); do
         ans=$(awk "/^${i}/ {for (j=2; j<NF; j++) printf \$j \" \"; print \$NF}" future/answers/${n}.md)

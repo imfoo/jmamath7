@@ -24,14 +24,30 @@
   );
   TEXT(beginproblem());
 
-Context("LimitedFraction");
+Context("Numeric");
 $ans1 = Compute('ANS1');
+#Context("LimitedFraction");
 $ans2 = Compute('ANS2');
+#Context("Inequalities");
+#$ans2 = Compute('ANS2');
 $ans3 = Compute('ANS3');
+#Context("Currency");
+#Context("ImplicitEquation");
+#$ans3 = ImplicitEquation("180-14=x");
+#$ans3 = Compute('ANS3');
 #$ans3 = PopUp( [ "?", "Yes", "No" ], "Yes" );
 $ans4 = Compute('ANS4');
 #$ans4 = PopUp( [ "?", "Likely", "Unlikely", "Neither" ], "Unlikely" );
+Context("Numeric");
 $ans5 = Compute('ANS5');
+#Context("ImplicitEquation");
+#Context()->variables->add(t=>"Real", n=>"Real");
+#Context()->variables->set(
+#t=>{limits=>[0,50]},
+#n=>{limits=>[0,2]},
+#);
+#$ans5 = ImplicitEquation('t=25n');
+
 
   ######################################################################
 #Context()->texStrings;
