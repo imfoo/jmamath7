@@ -7,38 +7,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
    width="1018.3906"
    height="274.23199"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="grand.svg">
+   id="svg2">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="506.59436"
-     inkscape:cy="-41.848002"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="2534"
-     inkscape:window-height="1572"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,39 +26,37 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-19.34025,-357.77004)">
+     transform="translate(-19.34025,-357.77004)"
+     id="layer1">
     <flowRoot
-       xml:space="preserve"
+       transform="translate(0,166)"
        id="flowRoot2985"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#dff8fc;fill-opacity:1;stroke:none;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
-       transform="translate(0,166)"><flowRegion
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#dff8fc;fill-opacity:1;stroke:none;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"><flowRegion
          id="flowRegion2987"><rect
-           id="rect2989"
            width="1028.5714"
            height="465.71426"
            x="17.142857"
-           y="192.36218" /></flowRegion><flowPara
+           y="192.36218"
+           id="rect2989" /></flowRegion><flowPara
          id="flowPara2991"
          style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"><flowSpan
-   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"
-   id="flowSpan3001">G</flowSpan>eometry</flowPara><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"
-         id="flowPara2993"><flowSpan
-   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"
-   id="flowSpan3003">R</flowSpan>atios and Proportions</flowPara><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"
-         id="flowPara2995"><flowSpan
-   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"
-   id="flowSpan3005">A</flowSpan>lgebraic Expressions and Equations</flowPara><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"
-         id="flowPara2997"><flowSpan
-   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"
-   id="flowSpan3007">N</flowSpan>umber Systems</flowPara><flowPara
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"
-         id="flowPara2999"><flowSpan
-   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#008080;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"
-   id="flowSpan3009">D</flowSpan>ata and Probability</flowPara></flowRoot>  </g>
+   id="flowSpan3001"
+   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold">G</flowSpan>eometry</flowPara><flowPara
+         id="flowPara2993"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"><flowSpan
+   id="flowSpan3003"
+   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold">R</flowSpan>atios and Proportions</flowPara><flowPara
+         id="flowPara2995"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"><flowSpan
+   id="flowSpan3005"
+   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold">A</flowSpan>lgebraic Expressions and Equations</flowPara><flowPara
+         id="flowPara2997"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"><flowSpan
+   id="flowSpan3007"
+   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold">N</flowSpan>umber Systems</flowPara><flowPara
+         id="flowPara2999"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold"><flowSpan
+   id="flowSpan3009"
+   style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#008080;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main Bold">D</flowSpan>ata and Probability</flowPara></flowRoot>  </g>
 </svg>
