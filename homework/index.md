@@ -2,6 +2,8 @@ Title: JMA Math 7 - Homework
 
 # Homeworks
 
+ * [Homework for Apr 16-Apr 20](/homework/homework_apr16-apr20.pdf)
+ * [Homework for Apr 9-Apr 13](/homework/homework_apr9-apr13.pdf)
  * [Homework for March 19-March 23](/homework/homework_mar19-mar23.pdf)
  * [Homework for March 12-March 16](/homework/homework_mar12-mar16.pdf)
  * [Homework for March 5-March 9](/homework/homework_mar5-mar9.pdf)
