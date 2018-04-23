@@ -24,7 +24,8 @@ What happens when you take away a debt? See the video [here](https://www.khanaca
 
 # Unit rates
 
-![Unit rates notes](images/unit_rates1.png)
+<!--![Unit rates notes](images/unit_rates1.png)-->
+<img src="images/unit_rates1.png" width=800/>
 
 ![Complex fractions](images/complex_fractions.png)
 
