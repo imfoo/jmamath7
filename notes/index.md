@@ -1,5 +1,5 @@
-<object data="image/grand.svg" type="image/svg+xml">
-  <img src="image/grand.png" />
+<object data="images/grand.svg" type="image/svg+xml">
+  <img src="images/grand.png" />
 </object>
 # Rational numbers
 
