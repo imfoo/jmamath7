@@ -1,19 +1,21 @@
 # Rational numbers
 
+Look at the integer foldable and review how to add and subtract positive and negative numbers.
+
 ![Integer foldable](https://i.pinimg.com/564x/80/58/5b/80585b7495304d8f003ed338d4572cb5.jpg)
 
 ## Notes on addition
 We can add positive and negative integers using a number line.
 ![Adding using a number line](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrL6cKhfxstqhEiWhiV3vKxq_BUiXyditCod5WI2sRAnwXYdul)
 
-## Notes on Subtraction
-Look at the integer foldable and review how to subtract a positive and how to subtract a negative. Why is *subtracting* a **negative** the same as *adding* a **positive**? 
-
+## Notes on subtracting a negative number
+Why is *subtracting* a **negative** the same as *adding* a **positive**? 
 What happens when you take away a debt? See the video [here](https://www.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro/v/why-subtracting-a-negative-equivalent-to-adding-a-positive).
 
 ## Notes on multiplication and division
 
-## Applications
+![Mickey](https://i.pinimg.com/originals/a5/05/c9/a505c9b66f565908ecd6f2cac9f40b6c.jpg)
+
 ## Order of Operations
 
 ![PEMDAS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8ybdswMAbEOF4z9x2-aeEEBGw4EgVGUzAPGIv94rNvVJPgEO)
